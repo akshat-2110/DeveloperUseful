@@ -11,7 +11,7 @@ $ sudo yum install doxygen
 $ sudo yum install graphviz 
 ```
 
-> **Generate Documentation from Source code with Doxygen**
+### Generate Documentation from Source code with Doxygen
 
 * _Step 1 :_ Generate a project-specific doxygen configuration file
 `$ doxygen -g my_proj.conf `
@@ -50,7 +50,7 @@ $ firefox index.html
 
 
 
-> **Source**
+### Source
 
 1. [Getting Started Doxygen](http://xmodulo.com/how-to-generate-documentation-from-source-code-in-linux.html).
 2. [Commenting Style](http://www-numi.fnal.gov/offline_software/srt_public_context/WebDocs/doxygen-howto.html).
