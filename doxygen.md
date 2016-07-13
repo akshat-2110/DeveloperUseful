@@ -1,4 +1,4 @@
-> **Install Doxygen on Linux**
+## Install Doxygen on Linux
 
 * To install doxygen on Ubuntu, Mint or Debian:
 ```
