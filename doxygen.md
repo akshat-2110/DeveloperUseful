@@ -13,7 +13,7 @@ $ sudo yum install graphviz
 
 > **Generate Documentation from Source code with Doxygen**
 
-* *Step 1 :* Generate a project-specific doxygen configuration file
+* _Step 1 :_ Generate a project-specific doxygen configuration file
 `$ doxygen -g my_proj.conf `
 
 * Step 2 : The above command will generate a template configuration file for a particular project. Among others, you can edit the following options in the configuration file.
