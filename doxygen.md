@@ -11,7 +11,7 @@ $ sudo yum install doxygen
 $ sudo yum install graphviz 
 ```
 
-### Generate Documentation from Source code with Doxygen
+### Configuring doxygen project specific file
 
 * _Step 1 :_ Generate a project-specific doxygen configuration file
 `$ doxygen -g my_proj.conf `
@@ -36,21 +36,8 @@ INLINE_SOURCES         = YES
 # generate visualization graph by using dot program (part of graphviz package).
 HAVE_DOT               = YES
 ```
-* _Step 3 :_ Now go ahead and run doxygen with the configuration file.
 
-`$ doxygen my_proj.conf ` 
-
-*Note:* Documentations are generated in both HTML and Latex formats, and stored in ./html and ./latex directories respectively.
-
-* To browse the HTML-formatted documentation, run the following.
-```
-cd html
-$ firefox index.html 
-```
-
-### Testing Doxygen Installation
-
-Create Three Files named as README.md(for main page description) & main.cpp
+* Create 3 test Files named as README.md(for main page description), main.cpp &  main.hpp
 
 > **README.md**
 
@@ -277,7 +264,17 @@ class Child2 : public Parent
 #endif 
 ```
 
+* _Step 3 :_ Now go ahead and run doxygen with the configuration file.
 
+`$ doxygen my_proj.conf ` 
+
+*Note:* Documentations are generated in both HTML and Latex formats, and stored in ./html and ./latex directories respectively.
+
+* To browse the HTML-formatted documentation, run the following.
+```
+cd html
+$ firefox index.html 
+```
 
 
 ### Source
