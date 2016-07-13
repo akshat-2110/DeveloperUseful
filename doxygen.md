@@ -37,7 +37,9 @@ INLINE_SOURCES         = YES
 HAVE_DOT               = YES
 ```
 * _Step 3 :_ Now go ahead and run doxygen with the configuration file.
+
 `$ doxygen my_proj.conf ` 
+
 *Note:* Documentations are generated in both HTML and Latex formats, and stored in ./html and ./latex directories respectively.
 
 * To browse the HTML-formatted documentation, run the following.
