@@ -16,7 +16,7 @@ $ sudo yum install graphviz
 * _Step 1 :_ Generate a project-specific doxygen configuration file
 `$ doxygen -g my_proj.conf `
 
-* Step 2 : The above command will generate a template configuration file for a particular project. Among others, you can edit the following options in the configuration file.
+* _Step 2 :_ The above command will generate a template configuration file for a particular project. Among others, you can edit the following options in the configuration file.
 ```
 # document all entities in the project.
 EXTRACT_ALL            = YES
@@ -36,6 +36,22 @@ INLINE_SOURCES         = YES
 # generate visualization graph by using dot program (part of graphviz package).
 HAVE_DOT               = YES
 ```
-* Step 3 : Now go ahead and run doxygen with the configuration file.
+* _Step 3 :_ Now go ahead and run doxygen with the configuration file.
 `$ doxygen my_proj.conf ` 
+*Note:* Documentations are generated in both HTML and Latex formats, and stored in ./html and ./latex directories respectively.
+
+* To browse the HTML-formatted documentation, run the following.
+```
+cd html
+$ firefox index.html 
+```
+
+
+
+
+
+> **Source**
+
+1. [Getting Started Doxygen](http://xmodulo.com/how-to-generate-documentation-from-source-code-in-linux.html).
+2. [Commenting Style](http://www-numi.fnal.gov/offline_software/srt_public_context/WebDocs/doxygen-howto.html).
 
