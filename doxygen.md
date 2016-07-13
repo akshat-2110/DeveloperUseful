@@ -35,13 +35,19 @@ INLINE_SOURCES         = YES
 
 # generate visualization graph by using dot program (part of graphviz package).
 HAVE_DOT               = YES
+
+# If the USE_MDFILE_AS_MAINPAGE tag refers to the name of a markdown file that
+# is part of the input, its contents will be placed on the main page
+# (index.html). This can be useful if you have a project on for instance GitHub
+# and want to reuse the introduction page also for the doxygen output.
+
+USE_MDFILE_AS_MAINPAGE = README.md
+
 ```
 
 * Create 3 test Files named as README.md(for main page description), main.cpp &  main.hpp
 
-> **README.md**
-
-* Modify `my_proj.conf` file as `USE_MDFILE_AS_MAINPAGE = README.md`
+> **1. README.md**
 
 ```
 My Main Page                         {#mainpage}
@@ -49,7 +55,7 @@ My Main Page                         {#mainpage}
 
 ##Documentation that will appear on the main page
 ```
-> **main.cpp**
+> **2. main.cpp**
 
 ```
 /** 
@@ -110,7 +116,7 @@ int main( void)
 }
 ```
 
-> **main.hpp**
+> **3. main.hpp**
 
 ```
 /** 
