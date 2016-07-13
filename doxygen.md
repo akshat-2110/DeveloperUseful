@@ -50,8 +50,11 @@ $ firefox index.html
 
 ### Testing Doxygen Installation
 
-Create Two Files named as README.md(for main page description) & main.cpp
+Create Three Files named as README.md(for main page description) & main.cpp
+
 > **README.md**
+
+* Modify `my_proj.conf` file as `USE_MDFILE_AS_MAINPAGE = README.md`
 
 ```
 My Main Page                         {#mainpage}
