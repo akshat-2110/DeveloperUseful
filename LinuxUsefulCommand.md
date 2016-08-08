@@ -58,3 +58,7 @@ i.e.```scp image.jpg vishal@192.168.0.1:/home/vishal```
 > **Count No of Occurence in file**
 
 ```grep -rw [WORD] [FILENAME] | wc -l```
+
+> **Redirecting output of program in file**
+
+```./[PROGRAM] > [OUTPUT_FILENAME] 2>&1 &```
