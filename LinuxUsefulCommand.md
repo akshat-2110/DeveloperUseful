@@ -54,3 +54,7 @@ i.e.```scp image.jpg vishal@192.168.0.1:/home/vishal```
 > **Untar file(de-compress)**
 
 ```tar -xvf [file_name].tar```
+
+> Count No of Occurence in file
+
+```grep -rw [WORD] [FILENAME] | wc -l```
