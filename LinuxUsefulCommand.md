@@ -1,3 +1,9 @@
+
+
+> **Print Directory Structre of Current Folder**
+
+```find ./ -type d -print```
+
 > **Find Files With Particular Extensions**
 
 ```find ./ -type f -name "*.rej"```
