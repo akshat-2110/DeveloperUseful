@@ -12,6 +12,7 @@ import os,sys
 
 RootDir		= os.getcwd()
 VERSION		= "Chendoo.1.0"
+DIR_ONLY	= False
 
 def printOnlyName( AbsolutePath):
 	file = AbsolutePath [ AbsolutePath.rfind('/') + 1 :  ]
@@ -25,6 +26,7 @@ def version():
 	print 	"\nTree Version "+VERSION+"\nCopyright (C) 2016 Free Software Foundation, Inc.\nThis is free software: you are free to change and redistribute it.\nThere is NO WARRANTY, to the extent permitted by law.\nWritten by Vishesh Patel.\n"
 
 def printContent( RootDir):
+	global DIR_ONLY
 	# Decide Spacing
 	Tab	= 0
 
@@ -42,8 +44,10 @@ def printContent( RootDir):
                         print "".center(8*Tab," ") + "| " + DirPath + " :"
 
 			for content in os.listdir(traverse):		# Add Content of SubDir To Stack
-				print "".center(8*Tab," ")  + "|   -- " + printOnlyName(content)
-				Stack.append(traverse + '/' + content)
+				AbsolutePath = traverse + '/' + content
+				if DIR_ONLY == False or os.path.isdir( AbsolutePath) == True:
+					print "".center(8*Tab," ")  + "|   -- " + content
+					Stack.append( AbsolutePath)
 
 			print "".center(8*Tab," ") + "".center(100,"-")
 
@@ -57,6 +61,9 @@ def main():
 		elif arg in ("--v", "--version") :
 			version()
 			sys.exit()
+		elif arg in ("--d", "--dir") :
+			global DIR_ONLY
+			DIR_ONLY = True
 		elif os.path.isdir(arg) == True:
 			global RootDir
 			RootDir = os.path.abspath(arg)
