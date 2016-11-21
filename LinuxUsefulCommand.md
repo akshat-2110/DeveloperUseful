@@ -1,8 +1,15 @@
 
 
-> **Print Directory Structre of Current Folder**
+> **Print Executable Files**
 
-```find ./ -type d -print```
+```find [DIRECTORY] -executable -type f ```
+
+Note: use "-delete" option in last to delete those files
+
+
+> **Print Directory Structre**
+
+```find [DIRECTORY] -type d -print```
 
 > **Find Files With Particular Extensions**
 
