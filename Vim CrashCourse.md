@@ -35,6 +35,7 @@
 * p----------------paste before, remember p is paste after current position.
 * yy---------------copy the current line, easier but equivalent to ddP
 * v----------------Start Visual selection from current cursor position (Mostly used to copy multiple line by select area press yy and then paste by pressing p)
+* set paste--------paste copied c language code which contain comments
 
 > **Put the line numbers in each line (Better)**
 
