@@ -1,3 +1,8 @@
+> **Print Tail Of File**
+
+```tail -f [FILE]```
+
+Note: use "10" or any number in place of f, for particular tail line output
 
 
 > **Print Executable Files**
