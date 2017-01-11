@@ -97,4 +97,4 @@ Note:- use Ctrl+w to shuffle between two opened section in Normal mode.
 
 Go to start or end of code snippest, press `Shft+5 or %` 
 
-* Also works for `/* */. `, `([{}])`, `#if`, `#ifdef`, `#else`, `#elif`, `#endif`. 
+* Also works for `/* */`, `([{}])`, `#if`, `#ifdef`, `#else`, `#elif`, `#endif`. 
