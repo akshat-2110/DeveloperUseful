@@ -92,3 +92,9 @@ Typically:  ESC, =, i, {
 :sp filename         ———Split window horizontally
 
 Note:- use Ctrl+w to shuffle between two opened section in Normal mode.
+
+> **Shuffle b/w start & end of code snippest**
+
+Go to start or end of code snippest, press `Shft+5 or %` 
+
+* Also works for `/* */. `, `([{}])`, `#if`, `#ifdef`, `#else`, `#elif`, `#endif`. 
