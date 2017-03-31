@@ -74,7 +74,7 @@ For example    :42
 * Step 3 Move cursor up and down to number of line you want to edit and press I// .
 * Step 4 Press ESC again and wait for second it will comment all the selected line or you can say add // in front of each selected line.
 
-Typically:  ESC, Ctrl+v, ?or?,  I<PatternToAdd>, [ESC]
+Typically:  [ESC], Ctrl+v, [UP_ARRAOW] or [DOWN_ARRAOW],  I (shift+i), <PatternToAdd>, [ESC]
 
 > **Align code in curly braces (indent)**
 
