@@ -1,3 +1,16 @@
+> **Print Directory Tree Structure **
+
+`ls -alR`
+
+OR
+
+`ls -R | grep ":$" | sed -e 's/:$//' -e 's/[^-][^\/]*\//--/g' -e 's/^/   /' -e 's/-/|/'`
+
+OR
+
+`find . -type d | sed -e "s/[^-][^\/]*\//  |/g" -e "s/|\([^ ]\)/|-\1/"`
+
+
 > **Print Tail Of File**
 
 ```tail -f [FILE]```
