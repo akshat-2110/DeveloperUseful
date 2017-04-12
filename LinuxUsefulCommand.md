@@ -1,4 +1,4 @@
-> **Print Directory Tree Structure **
+> **Print Directory Tree Structure**
 
 `ls -alR`
 
