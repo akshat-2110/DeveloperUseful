@@ -1,5 +1,4 @@
-
-### Insert alternate blank row
+> **Insert alternate blank row**
 
 **Problem** : I have data filled from A1 to A4 continuously. I want to insert alternate blank row.
 
@@ -13,8 +12,8 @@
 
 **Step 5**. And a Sort dialog box will appear, choose `Column B` from the Sort by dropdown list. And click `OK`.
 
-### Separate string on delimiter
+> **Separate string on delimiter**
 
 
 
-### Concatenate multiple strings
+> **Concatenate multiple strings**
