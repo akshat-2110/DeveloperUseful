@@ -1,5 +1,5 @@
 
-##### Insert alternate blank row
+### Insert alternate blank row
 
 **Problem** : I have data filled from A1 to A4 continuously. I want to insert alternate blank row.
 
