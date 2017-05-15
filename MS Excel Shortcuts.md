@@ -15,6 +15,12 @@
 
 > **Separate string on delimiter**
 
+**Problem** : Separate string on delimiter. For example column C contains data having `,` in between.
 
+**Step 1**: Select the column C.
+
+**Step 2**: And then click `Data` -> `Text to Column`, Check `Delimited` & click `Next`.
+
+**Step 3**: Check `Other`, fill the delimiter & click `Next` & `Finish`. We are done. 
 
 > **Concatenate multiple strings**
