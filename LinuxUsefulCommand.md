@@ -1,3 +1,7 @@
+> **Replace a string in multiple files**
+
+`sed -i 's/from/to/g' <PATH_TO_DIRECTORY>/*`
+
 > **Print Directory Tree Structure**
 
 `ls -alR`
