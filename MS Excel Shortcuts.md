@@ -1,3 +1,9 @@
+> **Insert row & column quickly**
+
+**Step 1**: Select the row/column, above/before you want to insert new row.
+
+**Step 2**: Press `Ctrl & '+'`, you are done.
+
 > **Count cell contains specific text**
 
 **Problem** : If you have column A filled text 'FAIL' & 'PASS'. You want count 'FAIL' cases.
