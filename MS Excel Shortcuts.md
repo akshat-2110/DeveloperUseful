@@ -1,3 +1,11 @@
+> **Count cell contains specific text**
+
+**Problem** : If you have column A filled text 'FAIL' & 'PASS'. You want count 'FAIL' cases.
+
+**Step 1**: Select a blank cell, enter the formula `=COUNTIF(A2:A6,"FAIL")` & press the Enter key.
+
+You can use `*` for wildcard search.
+
 > **Select the filled area**
 
 **Problem** : If you have column A filled from A2 to A90 & you want to select all filled data.
