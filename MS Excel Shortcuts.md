@@ -1,3 +1,11 @@
+> **Select the filled area**
+
+**Problem** : If you have column A filled from A2 to A90 & you want to select all filled data.
+
+**Step 1**: Select cell `A2`.
+
+**Step 2**: Press `Shift + Ctrl + <DOWN_ARRAY>`. you are done.
+
 > **Insert alternate blank row**
 
 **Problem** : I have data filled from A1 to A4 continuously. I want to insert alternate blank row.
