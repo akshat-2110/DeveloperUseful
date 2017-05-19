@@ -4,7 +4,7 @@
 
 **Step 1**: Select cell `A2`.
 
-**Step 2**: Press `Shift + Ctrl + <DOWN_ARRAY>`. you are done.
+**Step 2**: Press `Shift + Ctrl + <DOWN_ARROW>`. you are done.
 
 > **Insert alternate blank row**
 
