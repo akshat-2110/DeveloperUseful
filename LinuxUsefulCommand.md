@@ -1,3 +1,7 @@
+> **Watch output of any command every X seconds(Default is 2 sec)**
+
+`watch ls -l`
+
 > **Replace a string in multiple files**
 
 `sed -i 's/from/to/g' <PATH_TO_DIRECTORY>/*`
