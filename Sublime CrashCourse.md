@@ -33,6 +33,13 @@
 - `Ctrl + 0` for project browser.
 - `Esc` for file layout.
 
+> **Switching between opened files**
+- Forward `Ctrl + PageUp`.
+- Backward `Ctrl + PageDown`.
+
+> **Closing file**
+- `Ctrl + w`
+
 > **Going to particular function,line or variable of file**
 - `Ctrl + p` & type <file name> `@` <function name>.
 - `Ctrl + p` & type <file name> `#` <variable name>.
