@@ -41,9 +41,9 @@
 - `Ctrl + w`
 
 > **Going to particular function,line or variable of file**
-- `Ctrl + p` & type <file name> `@` <function name>.
-- `Ctrl + p` & type <file name> `#` <variable name>.
-- `Ctrl + p` & type <file name> `:` <line no>.
+- `Ctrl + p` & type <file name> `@` [function name].
+- `Ctrl + p` & type <file name> `#` [variable name].
+- `Ctrl + p` & type <file name> `:` [line no].
 
 
 ### Opening New File
