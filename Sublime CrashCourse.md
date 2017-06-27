@@ -45,5 +45,10 @@
 - `Ctrl + p` & type <file name> `#` [variable name].
 - `Ctrl + p` & type <file name> `:` [line no].
 
+> **Goto definition of function or object**
+- Open whole project, `File` -> `Open Folder`.
+- Place curson on symbol & press `F12`.
+
+
 ### Package Manager
 ### Package Manager
