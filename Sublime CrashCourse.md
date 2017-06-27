@@ -45,8 +45,5 @@
 - `Ctrl + p` & type <file name> `#` [variable name].
 - `Ctrl + p` & type <file name> `:` [line no].
 
-
-### Opening New File
-
 ### Package Manager
 ### Package Manager
