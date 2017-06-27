@@ -24,12 +24,20 @@
 > **Delete Line**
 - `Ctrl + Shift + k`
 
+### Traversing the Code
+
 > **Opening New File**
 - `Ctrl + p` & type file name.
 
 > **Switching between project browser & opened file layout**
 - `Ctrl + 0` for project browser.
 - `Esc` for file layout.
+
+> **Going to particular function,line or variable of file**
+- `Ctrl + p` & type <file name> `@` <function name>.
+- `Ctrl + p` & type <file name> `#` <variable name>.
+- `Ctrl + p` & type <file name> `:` <line no>.
+
 
 ### Opening New File
 
