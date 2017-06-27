@@ -18,7 +18,20 @@
 > **Move line up/down**
 - `Ctrl + Shift + <UP/DOWN ARROW>`
 
+> **Copy Paste Line**
+- `Ctrl + Shift + d`
 
+> **Delete Line**
+- `Ctrl + Shift + k`
+
+> **Opening New File**
+- `Ctrl + p` & type file name.
+
+> **Switching between project browser & opened file layout**
+- `Ctrl + 0` for project browser.
+- `Esc` for file layout.
+
+### Opening New File
 
 ### Package Manager
 ### Package Manager
