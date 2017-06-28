@@ -29,10 +29,6 @@
 > **Opening New File**
 - `Ctrl + p` & type file name.
 
-> **Switching between project browser & opened file layout**
-- `Ctrl + 0` for project browser.
-- `Esc` for file layout.
-
 > **Switching between opened files**
 - Forward `Ctrl + PageUp`.
 - Backward `Ctrl + PageDown`.
@@ -49,10 +45,19 @@
 - Open whole project, `File` -> `Open Folder`.
 - Place curson on symbol & press `F12`.
 
+### Package Manager
 
-### Package Manager
-### Package Manager
 ### Misc
 
 > **Toggle Project Browser**
 - `Ctrl + k + b`
+
+> **Opening multiple layout**
+- `Alt + Shift + 2` for 2 column.
+- `Alt + Shift + 3` for 3 column.
+- `Alt + Shift + 8` for 2 row.
+
+> **Switching/Toggle between layouts**
+- `Ctrl + 0` for project browser.
+- `Ctrl + 1` for layout file 1.
+- `Ctrl + 2` for layout file 2.
