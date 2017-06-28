@@ -52,3 +52,7 @@
 
 ### Package Manager
 ### Package Manager
+### Misc
+
+> **Toggle Project Browser**
+- `Ctrl + k + b`
