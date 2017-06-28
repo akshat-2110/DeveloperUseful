@@ -45,7 +45,9 @@
 - Open whole project, `File` -> `Open Folder`.
 - Place curson on symbol & press `F12`.
 
-### Package Manager
+### Plugin
+- C++Snippet
+- Ctags
 
 ### Misc
 
