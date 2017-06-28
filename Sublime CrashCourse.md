@@ -47,7 +47,7 @@
 
 ### Plugin
 - C++Snippet
-- Ctags
+- Ctags : Right click of folder & select `Ctags : Rebuild Tags`. select symbol & press `Ctrl + t` twice to jump to definition.
 
 ### Misc
 
