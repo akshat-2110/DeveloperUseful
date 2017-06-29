@@ -45,6 +45,9 @@
 - Open whole project, `File` -> `Open Folder`.
 - Place curson on symbol & press `F12`.
 
+> **Traverse all instance of symbol in file**
+- Put curson on it, Press `Ctrl + f` & Press `Enter`.
+
 ### Plugin
 - C++Snippet
 - Ctags : Right click of folder & select `Ctags : Rebuild Tags`. select symbol & press `Ctrl + t` twice to jump to definition.
