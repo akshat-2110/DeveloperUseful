@@ -24,6 +24,9 @@
 > **Delete Line**
 - `Ctrl + Shift + k`
 
+> **Move Curson To Left/Right Of Word**
+- `Ctrl + <Left/Right Arrow>`
+
 ### Traversing the Code
 
 > **Opening New File**
@@ -66,3 +69,11 @@
 - `Ctrl + 0` for project browser.
 - `Ctrl + 1` for layout file 1.
 - `Ctrl + 2` for layout file 2.
+
+> **Custome Settings**
+- `Ctrl + Shift + p`, type & open `Preferences Settings`. Add following lines.
+```
+	"highlight_line": true,
+	"bold_folder_labels": true,
+  "fade_fold_buttons": false,
+```
