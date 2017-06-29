@@ -75,5 +75,5 @@
 ```
 	"highlight_line": true,
 	"bold_folder_labels": true,
-  "fade_fold_buttons": false,
+ 	"fade_fold_buttons": false,
 ```
