@@ -86,4 +86,7 @@
     }]
 }
 ```
+> **Prefered color scheme**
+- Monokai
+
 
