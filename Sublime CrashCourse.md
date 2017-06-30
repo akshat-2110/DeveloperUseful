@@ -89,4 +89,12 @@
 > **Prefered color scheme**
 - Monokai
 
+> **Key Binding for reindentation**
+```
+[
+	{ "keys": ["f10"], "command": "reindent", "args": {"single_line": false} },
+]
+```
+- Select all by `Ctrl + a` & press `f10`.
+
 
