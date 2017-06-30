@@ -49,12 +49,6 @@
 > **Traverse all instance of symbol in file**
 - Put curson on it, Press `Ctrl + f` & Press `Enter`.
 
-### Plugin
-- C++Snippet
-- Ctags : Right click of folder & select `Ctags : Rebuild Tags`. select symbol & press `Ctrl + t` twice to jump to definition.
-
-### Misc
-
 > **Toggle Project Browser**
 - `Ctrl + k + b`
 
@@ -68,6 +62,12 @@
 - `Ctrl + 1` for layout file 1.
 - `Ctrl + 2` for layout file 2.
 
+### Plugin
+- C++Snippet
+- Ctags : Right click of folder & select `Ctags : Rebuild Tags`. select symbol & press `Ctrl + t` twice to jump to definition.
+
+### Misc
+
 > **Custome Settings**
 - `Ctrl + Shift + p`, type & open `Preferences Settings`. Add following lines.
 ```
@@ -75,3 +75,16 @@
 	"bold_folder_labels": true,
  	"fade_fold_buttons": false,
 ```
+> **Exclude folder/files in project browser**
+- Open `.sublime-project`, Need to save project first to generate `.sublime-project`.
+- Edit following
+```
+{
+    "folders": [{
+        "path": ".",
+        "folder_exclude_patterns": [".svn", "._d", ".metadata", ".settings"],
+        "file_exclude_patterns": ["*.pyc", "*.pyo", ".project", "*.checksum"]
+    }]
+}
+```
+
