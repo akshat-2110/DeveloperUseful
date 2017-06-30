@@ -63,7 +63,7 @@
 - `Ctrl + 2` for layout file 2.
 
 ### Plugin
-- C++Snippet
+- C++Snippet : [Shortcut Helpers](https://github.com/Rapptz/cpp-sublime-snippet/blob/master/reference.md).
 
 ### Misc
 
