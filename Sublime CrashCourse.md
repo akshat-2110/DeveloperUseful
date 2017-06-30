@@ -90,6 +90,7 @@
 - Monokai
 
 > **Key Binding for reindentation**
+- `Ctrl + Shift + p`, type & open `Key Bindings`. Add following lines.
 ```
 [
 	{ "keys": ["f10"], "command": "reindent", "args": {"single_line": false} },
