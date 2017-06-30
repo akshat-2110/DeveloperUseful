@@ -29,12 +29,14 @@
 
 ### Traversing the Code
 
+> **Goto definition & back**
+- Goto definition `F12` & goto back `Alt + -`.
+
 > **Opening New File**
 - `Ctrl + p` & type file name.
 
 > **Switching between opened files**
-- Forward `Ctrl + PageUp`.
-- Backward `Ctrl + PageDown`.
+- Forward/Backward `Ctrl + <PageUp/PageDown>`.
 
 > **Closing file**
 - `Ctrl + w`
@@ -43,10 +45,6 @@
 - `Ctrl + p` & type <file name> `@` [function name].
 - `Ctrl + p` & type <file name> `#` [variable name].
 - `Ctrl + p` & type <file name> `:` [line no].
-
-> **Goto definition of function or object**
-- Open whole project, `File` -> `Open Folder`.
-- Place curson on symbol & press `F12`.
 
 > **Traverse all instance of symbol in file**
 - Put curson on it, Press `Ctrl + f` & Press `Enter`.
