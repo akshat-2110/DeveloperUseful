@@ -94,6 +94,8 @@
 ```
 [
 	{ "keys": ["f10"], "command": "reindent", "args": {"single_line": false} },
+	{ "keys": ["ctrl+."], "command": "goto_definition"},
+	{ "keys": ["ctrl+,"], "command": "jump_back"},	
 ]
 ```
 - Select all by `Ctrl + a` & press `f10`.
