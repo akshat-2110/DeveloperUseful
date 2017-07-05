@@ -4,3 +4,15 @@
 
 > **Minimize/Maximize Windows**
 - `Window Key + Arrow Up` : Maximize & `Window Key + Arrow Down` : Minimize
+
+> **New Tab in Browser**
+- `Ctrl + t`
+
+> **Write URL in new Tab in Browser**
+- `Ctrl + l`
+
+> **Open previously closed Tab in Browser**
+- `Ctrl + Shift + t`
+
+> **Switch between tab in browser**
+- `Ctrl + Arrow Up/Down`
