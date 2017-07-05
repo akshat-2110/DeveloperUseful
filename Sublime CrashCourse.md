@@ -62,6 +62,9 @@
 - `Ctrl + 1` for layout file 1.
 - `Ctrl + 2` for layout file 2.
 
+> **Find project wide or find in all files**
+- `Ctrl + Shift + f`.
+
 ### Plugin
 - C++Snippet : [Shortcut Helpers](https://github.com/Rapptz/cpp-sublime-snippet/blob/master/reference.md).
 
