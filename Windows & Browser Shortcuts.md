@@ -19,3 +19,6 @@
 
 > **Switch between tab in browser**
 - `Ctrl + Arrow Up/Down`
+
+> **Create new folder**
+- `Ctrl + Shift + n`
