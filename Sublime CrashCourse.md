@@ -100,4 +100,6 @@
 ```
 - Select all by `Ctrl + a` & press `f10`.
 
+> **To see sublime command or CLI **
+- `Ctrl + `` & enter `sublime.log_commands(True)`
 
