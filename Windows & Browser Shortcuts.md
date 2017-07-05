@@ -8,7 +8,7 @@
 > **New Tab in Browser**
 - `Ctrl + t`
 
-> **Close tab in browser**
+> **Close tab/window**
 - `Ctrl + w`
 
 > **Write URL in new Tab in Browser**
