@@ -1,3 +1,6 @@
+> **Default bash prompt setting**
+export PS1='[\u@\h \W]\$ '
+
 > **Watch output of any command every X seconds(Default is 2 sec)**
 
 `watch ls -l`
