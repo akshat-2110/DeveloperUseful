@@ -65,6 +65,9 @@
 > **Find project wide or find in all files**
 - `Ctrl + Shift + f`.
 
+> **Jump to line**
+- `Ctrl + g` & type line no.
+
 ### Plugin
 - C++Snippet : [Shortcut Helpers](https://github.com/Rapptz/cpp-sublime-snippet/blob/master/reference.md).
 
