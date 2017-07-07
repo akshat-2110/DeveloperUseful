@@ -103,6 +103,7 @@
 	{ "keys": ["ctrl+."], "command": "goto_definition"},
 	{ "keys": ["ctrl+,"], "command": "jump_back"},	
 	{ "keys": ["f5"], "command": "refresh_folder_list"},	
+	{ "keys": ["ctrl+f"], "command": "copy_path" },
 ]
 ```
 - Select all by `Ctrl + a` & press `f10`.
