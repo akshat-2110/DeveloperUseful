@@ -95,7 +95,7 @@
 > **Prefered color scheme**
 - Monokai
 
-> **Key Binding for reindentation**
+> **Key Binding**
 - `Ctrl + Shift + p`, type & open `Key Bindings`. Add following lines.
 ```
 [
@@ -107,6 +107,7 @@
 	{ "keys": ["f5"], "command": "refresh_folder_list"},								//Refresh project
 ]
 ```
+
 
 > **To see sublime command or CLI **
 - `Ctrl + ~` & enter `sublime.log_commands(True)`
