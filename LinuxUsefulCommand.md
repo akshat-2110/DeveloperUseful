@@ -1,3 +1,8 @@
+>** Redirect Error/Output to file**
+
+- `command >out 2>&1`
+- `>&` in `csh`.
+
 > **Default bash prompt setting**
 
 export PS1='[\u@\h \W]\$ '
