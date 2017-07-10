@@ -109,6 +109,6 @@
 ```
 
 
-> **To see sublime command or CLI **
+> **To see sublime command or CLI**
 - `Ctrl + ~` & enter `sublime.log_commands(True)`
 
