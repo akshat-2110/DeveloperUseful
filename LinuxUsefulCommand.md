@@ -1,4 +1,4 @@
->** Redirect Error/Output to file**
+> **Redirect Error/Output to file**
 
 - `command >out 2>&1`
 - `>&` in `csh`.
