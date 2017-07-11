@@ -29,6 +29,9 @@
 
 ### Traversing the Code
 
+> **Goto end/beginning of file**
+- end/beginning = `Ctrl+End`/`Ctrl+Home`
+
 > **Goto definition & back**
 - Goto definition `F12` & goto back `Alt + -`.
 
