@@ -1,6 +1,6 @@
 > **Redirect Error/Output to file**
 
-- `command >out 2>&1`
+- `command >out 2>&1` in `bash`.
 - `>&` in `csh`.
 
 > **Default bash prompt setting**
@@ -111,3 +111,12 @@ i.e.```scp image.jpg vishal@192.168.0.1:/home/vishal```
 > **Redirecting output of program in file**
 
 ```./[PROGRAM] > [OUTPUT_FILENAME] 2>&1 &```
+
+> **Custome Setting Script**
+
+```
+cd ~
+alias ls="ls -lrt --color=auto"
+export PS1='[\u@\h \W]$ '
+```
+- Run this as `$ . <Script_Name>`
