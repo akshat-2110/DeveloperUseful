@@ -67,6 +67,7 @@
 
 > **Find project wide or find in all files**
 - `Ctrl + Shift + f`.
+- Exclude folder from search type `-*/folder_name/*` in where box.
 
 > **Jump to line**
 - `Ctrl + g` & type line no.
