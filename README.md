@@ -7,4 +7,4 @@
 5. [Tree Command](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Tree.md)
 6. [MS Excel Shortcuts](https://github.com/VisheshPatel/DeveloperUseful/blob/master/MS%20Excel%20Shortcuts.md)
 7. [Sublime CrashCourse](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Sublime%20CrashCourse.md)
-8. [Windows & Browser Shortcuts](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Windows%20&%20Browser%20Shortcuts.md)
+8. [Windows & Browser Shortcuts](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Windows,%20Browser%20&%20MS%20Office%20Shortcut.md)
