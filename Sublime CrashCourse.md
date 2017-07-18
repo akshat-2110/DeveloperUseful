@@ -89,11 +89,15 @@
 - Edit following
 ```
 {
-    "folders": [{
-        "path": ".",
-        "folder_exclude_patterns": [".svn", "._d", ".metadata", ".settings"],
-        "file_exclude_patterns": ["*.pyc", "*.pyo", ".project", "*.checksum"]
-    }]
+	"folders": [{
+		"path": ".",
+		"folder_exclude_patterns": [".svn", "._d", ".metadata", ".settings", "1.0", "2.0"],
+		"file_exclude_patterns": ["*.pyc", "*.pyo", ".project", "*.checksum"],
+		"enable_count_lines":true,
+		"enable_count_chars":true,
+		"enable_line_char_count":true,
+		"enable_line_word_count":true,
+	}]
 }
 ```
 > **Prefered color scheme**
