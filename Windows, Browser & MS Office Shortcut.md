@@ -22,3 +22,9 @@
 
 > **Create new folder**
 - `Ctrl + Shift + n`
+
+> **Increase font size in MS Office**
+- `Ctrl + Shift + >`
+
+> **Font style**
+- Bold = `Ctrl + B`
