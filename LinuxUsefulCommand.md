@@ -1,3 +1,6 @@
+> **Change file permission of whole folder**
+- `find 3.0/ -type f -exec chmod 666 {} \;`
+
 > **Redirect Error/Output to file**
 
 - `command >out 2>&1` in `bash`.
