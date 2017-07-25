@@ -28,3 +28,6 @@
 
 > **Font style**
 - Bold = `Ctrl + B`
+
+> **Previous View in Adobe Acrobat PDF Reader**
+- `Alt + Left Arrow`
