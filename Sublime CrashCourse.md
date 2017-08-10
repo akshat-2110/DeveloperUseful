@@ -83,6 +83,7 @@
 	"highlight_line": true,
 	"bold_folder_labels": true,
  	"fade_fold_buttons": false,
+	"show_full_path": true,
 ```
 > **Exclude folder/files in project browser**
 - Open `.sublime-project`, Need to save project first to generate `.sublime-project`.
