@@ -35,3 +35,9 @@
 
 > **Increase/Decrease speed**
 - Shift + `>`/`<` (may not work in all browsers) or Shift + `.`/`,` (period)
+
+> **Mute/unmute video**
+- m
+
+> **Previous/Next Video**
+- Shift + `p`/`n`
