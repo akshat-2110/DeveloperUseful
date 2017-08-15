@@ -15,6 +15,7 @@
 > **Switch between tab**
 - `Ctrl + Arrow Up/Down`
 
+
 ## YouTube
 
 > **Skip to a particular section of the video**
@@ -28,3 +29,9 @@
 
 > **Go backward/forward 5 seconds**
 - Left/Right arrow
+
+> **Increase/Decrease volume 5%**
+- Up/Down arrow
+
+> **Increase/Decrease speed**
+- Shift + `>`/`<` (may not work in all browsers) or Shift + `.`/`,` (period)
