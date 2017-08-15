@@ -1,34 +1,34 @@
 ## Windows
 
-> **Open Terminal On Particular Folder Windows**
+> **Open Terminal On Particular Folder**
 - `Shift + Right Click` -> `Open command window here`.
 
-> **Minimize/Maximize Windows**
+> **Minimize/Maximize**
 - `Window Key + Arrow Up` : Maximize & `Window Key + Arrow Down` : Minimize
+
+> **Create new folder**
+- `Ctrl + Shift + n`
 
 ## Browser
 
-> **New Tab in Browser**
+> **New Tab**
 - `Ctrl + t`
 
 > **Close tab/window**
 - `Ctrl + w`
 
-> **Write URL in new Tab in Browser**
+> **Write URL in new Tab**
 - `Ctrl + l`
 
-> **Open previously closed Tab in Browser**
+> **Open previously closed Tab**
 - `Ctrl + Shift + t`
 
-> **Switch between tab in browser**
+> **Switch between tab**
 - `Ctrl + Arrow Up/Down`
-
-> **Create new folder**
-- `Ctrl + Shift + n`
 
 ## MS-Docs
 
-> **Increase font size in MS Office**
+> **Increase font size**
 - `Ctrl + Shift + >`
 
 > **Font style**
