@@ -75,15 +75,23 @@
 ### Plugin
 - C++Snippet : [Shortcut Helpers](https://github.com/Rapptz/cpp-sublime-snippet/blob/master/reference.md).
 
+### Theme
+- Soda
+
 ### Misc
 
 > **Custome Settings**
 - `Ctrl + Shift + p`, type & open `Preferences Settings`. Add following lines.
 ```
-	"highlight_line": true,
+{
 	"bold_folder_labels": true,
- 	"fade_fold_buttons": false,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"fade_fold_buttons": false,
+	"font_size": 12,
+	"highlight_line": true,
 	"show_full_path": true,
+	"theme": "Soda Dark 3.sublime-theme"
+}
 ```
 > **Exclude folder/files in project browser**
 - Open `.sublime-project`, Need to save project first to generate `.sublime-project`.
