@@ -111,6 +111,7 @@
 ```
 > **Prefered color scheme**
 - Monokai
+- Pastels on Dark
 
 > **Key Binding**
 - `Ctrl + Shift + p`, type & open `Key Bindings`. Add following lines.
