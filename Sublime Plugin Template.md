@@ -1,3 +1,4 @@
+```
 import sublime
 import sublime_plugin
 
@@ -20,3 +21,5 @@ class ExampleCommand(sublime_plugin.TextCommand):
             # Print the line
 			print(lineContents)
 
+
+```
