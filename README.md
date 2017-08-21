@@ -10,3 +10,4 @@
 8. [Windows, MS-Docs & PDF Viewer Shortcuts](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Windows%20Shortcut.md)
 9. [Linux Command Settings](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Linux%20Command%20Settings.sh)
 10. [Browser Shortcuts](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Browser%20Shortcut.md)
+11. [Sublime Plugin Template](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Sublime%20Plugin%20Template.md)
