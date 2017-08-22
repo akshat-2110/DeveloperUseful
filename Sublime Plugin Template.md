@@ -16,10 +16,17 @@ class ExampleCommand(sublime_plugin.TextCommand):
 			lineContents = self.view.substr(lineReg) + '\n'
 
 			# Add the text at the beginning of the line
-            view.insert(line.begin(), lineContents)
+			self.view.insert(edit, lineReg.begin(), "lineContents")
 
-            # Print the line
-			print(lineContents)
+			# Replace content of line(May not replace whole line)
+			self.view.replace(edit, lineReg, "This")
+
+			# Erase line
+			self.view.erase(edit, lineReg)
+
+			# Print the debug line on console
+			print("DEBUG")
+
 
 
 ```
