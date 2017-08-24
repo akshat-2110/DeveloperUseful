@@ -120,9 +120,11 @@
 	{ "keys": ["f10"], "command": "reindent", "args": {"single_line": false} },			//F10 for reindentation
 	{ "keys": ["ctrl+up"], "command": "select_lines", "args": {"forward": false} },		//Multiple curson up
 	{ "keys": ["ctrl+down"], "command": "select_lines", "args": {"forward": true} },	//Multiple curson down
-	{ "keys": ["ctrl+right"], "command": "goto_definition"},								//Jump to function definition
 	{ "keys": ["ctrl+left"], "command": "jump_back"},										//Jump back
-	{ "keys": ["f5"], "command": "refresh_folder_list"},								//Refresh project
+	{ "keys": ["ctrl+right"], "command": "goto_definition"},								//Jump to function definition	
+	{ "keys": ["f5"], "command": "refresh_folder_list"},
+
+	{"keys": ["ctrl+t"], "command": "tabularize"}
 ]
 ```
 
