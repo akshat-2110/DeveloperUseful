@@ -21,3 +21,6 @@
 
 > **Previous View in Adobe Acrobat PDF Reader**
 - `Alt + Left Arrow`
+
+> **Select text freely(without line)**
+- `Alt + [Use mouse to select]`
