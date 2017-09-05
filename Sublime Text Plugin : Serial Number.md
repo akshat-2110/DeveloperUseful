@@ -1,3 +1,9 @@
+#### Key Binding
+```
+{"keys": ["ctrl+shift+s"], "command": "serialnumber"},
+```
+
+#### Plugin
 ```
 import sublime
 import sublime_plugin
