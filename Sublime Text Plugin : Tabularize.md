@@ -1,3 +1,9 @@
+#### Key Binding
+```
+{"keys": ["ctrl+t"], "command": "tabularize"},
+```
+
+#### Plugin
 ```
 import sublime
 import sublime_plugin
