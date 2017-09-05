@@ -11,4 +11,5 @@
 9. [Linux Command Settings](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Linux%20Command%20Settings.sh)
 10. [Browser Shortcuts](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Browser%20Shortcut.md)
 11. [Sublime Plugin Template](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Sublime%20Plugin%20Template.md)
-12. [Sublime Text Tabularize](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Sublime%20Text%20Tabularize.md)
+12. [Sublime Text Plugin : Tabularize](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Sublime%20Text%20Plugin%20:%20Tabularize.md)
+12. [Sublime Text Plugin : Serial Number](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Sublime%20Text%20Plugin%20:%20Serial%20Number.md)
