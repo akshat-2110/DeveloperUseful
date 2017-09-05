@@ -124,7 +124,8 @@
 	{ "keys": ["ctrl+right"], "command": "goto_definition"},								//Jump to function definition	
 	{ "keys": ["f5"], "command": "refresh_folder_list"},
 
-	{"keys": ["ctrl+t"], "command": "tabularize"}
+	{"keys": ["ctrl+t"], "command": "tabularize"},
+	{"keys": ["ctrl+shift+s"], "command": "serialnumber"}
 ]
 ```
 
