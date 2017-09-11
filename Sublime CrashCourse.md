@@ -27,6 +27,11 @@
 > **Move Curson To Left/Right Of Word**
 - `Ctrl + <Left/Right Arrow>`
 
+> **Comment code faster**
+- `Ctrl + /` - Single line comment
+- `Ctrl + Shift + /` - Multi line comment
+Note: Make sure that you selected syntax type, before commenting 
+
 ### Traversing the Code
 
 > **Goto end/beginning of file**
