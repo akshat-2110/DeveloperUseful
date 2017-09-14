@@ -32,6 +32,9 @@
 - `Ctrl + Shift + /` - Multi line comment
 Note: Make sure that you selected syntax type, before commenting 
 
+> **Delete whole line**
+- `Shift + Delete`
+
 ### Traversing the Code
 
 > **Goto end/beginning of file**
