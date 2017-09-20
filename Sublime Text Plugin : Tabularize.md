@@ -47,7 +47,8 @@ class TabularizeCommand(sublime_plugin.TextCommand):
 			table += wordLine+"\n"
 
 		table += borderLine+"\n"
-		self.view.insert(edit, 0, table)
+		self.view.insert(edit, self.view.sel()[0].begin(), table)
+		# self.view.insert(edit, 0, table)
 
 	def getListOfSelectedLines(self, edit):
 		selectedLines = []
