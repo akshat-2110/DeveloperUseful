@@ -46,3 +46,6 @@ You can use `*` for wildcard search.
 **Step 3**: Check `Other`, fill the delimiter & click `Next` & `Finish`. We are done. 
 
 > **Concatenate multiple strings**
+
+> **Changing a row's color depending on the value ( TEXT ) of a cell**
+
