@@ -1,6 +1,10 @@
 > **Change file permission of whole folder**
 - `find 3.0/ -type f -exec chmod 666 {} \;`
 
+> ****
+ - `vncserver -geometry 1950x1150`
+ - `vncpasswd`
+
 > **Redirect Error/Output to file**
 
 - `command >out 2>&1` in `bash`.
