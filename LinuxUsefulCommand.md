@@ -4,6 +4,7 @@
 > **VNC commands**
  - `vncserver -geometry 1920x1100`
  - `vncpasswd`
+ - `vncconfig --nowin &` for copy/paste from windows
 
 > **Redirect Error/Output to file**
 
