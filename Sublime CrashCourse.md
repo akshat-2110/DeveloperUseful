@@ -131,6 +131,8 @@ Note: Make sure that you selected syntax type, before commenting
 	{ "keys": ["ctrl+left"], "command": "jump_back"},										//Jump back
 	{ "keys": ["ctrl+right"], "command": "goto_definition"},								//Jump to function definition	
 	{ "keys": ["f5"], "command": "refresh_folder_list"},
+	{ "keys": ["ctrl+7"], "command": "toggle_comment", "args": { "block": false } },
+	{ "keys": ["ctrl+shift+7"], "command": "toggle_comment", "args": { "block": true } },
 
 	{"keys": ["ctrl+t"], "command": "tabularize"},
 	{"keys": ["ctrl+shift+s"], "command": "serialnumber"}
