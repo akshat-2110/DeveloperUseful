@@ -9,7 +9,9 @@
 
 > **Minimize**
 - `Window Key + D` : Minimize.
+
 or
+
 - `Alt + Space Bar` & `n` : Minimize
 
 > **Create new folder**
