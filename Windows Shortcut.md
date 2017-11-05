@@ -3,8 +3,14 @@
 > **Open Terminal On Particular Folder**
 - `Shift + Right Click` -> `Open command window here`.
 
-> **Minimize/Maximize**
-- `Window Key + Arrow Up` : Maximize & `Window Key + Arrow Down` : Minimize
+> **Maximize/Restore Window**
+- `Window Key + Arrow Up` : Maximize.
+- `Window Key + Arrow Down` : Minimize
+
+> **Minimize**
+- `Window Key + D` : Minimize.
+or
+- `Alt + Space Bar` & `n` : Minimize
 
 > **Create new folder**
 - `Ctrl + Shift + n`
