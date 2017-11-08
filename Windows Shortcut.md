@@ -8,11 +8,11 @@
 - `Window Key + Arrow Down` : Minimize
 
 > **Minimize**
-- `Window Key + D` : Minimize.
+- `Window Key + D` : Minimize all windows.
 
 or
 
-- `Alt + Space Bar` & `n` : Minimize
+- `Alt + Space Bar` & `n` : Minimize current window.
 
 > **Create new folder**
 - `Ctrl + Shift + n`
