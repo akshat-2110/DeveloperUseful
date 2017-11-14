@@ -2,6 +2,8 @@
 - `find 3.0/ -type f -exec chmod 666 {} \;`
 
 > **VNC commands**
+ - `vncserver -list`
+ - `vncserver -kill :<NO_TO_SERVER>`
  - `vncserver -geometry 1920x1100`
  - `vncpasswd`
  - `vncconfig --nowin &` for copy/paste from windows
