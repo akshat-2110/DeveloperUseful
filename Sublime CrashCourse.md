@@ -134,7 +134,7 @@ Note: Make sure that you selected syntax type, before commenting
 	{ "keys": ["ctrl+7"], "command": "toggle_comment", "args": { "block": false } },
 	{ "keys": ["ctrl+shift+7"], "command": "toggle_comment", "args": { "block": true } },
 
-	{"keys": ["ctrl+t"], "command": "tabularize"},
+	{"keys": ["ctrl+shift+t"], "command": "tabularize"},
 	{"keys": ["ctrl+shift+s"], "command": "serialnumber"}
 ]
 ```
