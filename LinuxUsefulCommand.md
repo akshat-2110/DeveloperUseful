@@ -4,7 +4,7 @@
 > **VNC commands**
  - `vncserver -list`
  - `vncserver -kill :<NO_TO_SERVER>`
- - `vncserver -geometry 1920x1100`
+ - `vncserver -geometry 1270x960`
  - `vncpasswd`
  - `vncconfig --nowin &` for copy/paste from windows
 
