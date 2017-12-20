@@ -35,6 +35,9 @@ Note: Make sure that you selected syntax type, before commenting
 > **Delete whole line**
 - `Shift + Delete`
 
+> **Sort Lines Alphabetically**
+- `F9`
+
 ### Traversing the Code
 
 > **Goto end/beginning of file**
