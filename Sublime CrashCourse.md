@@ -111,7 +111,7 @@ Note: Make sure that you selected syntax type, before commenting
 {
 	"folders": [{
 		"path": ".",
-		"folder_exclude_patterns": [".svn", "._d", ".metadata", ".settings", "1.0", "2.0"],
+		"folder_exclude_patterns": [".svn", "._d", ".metadata", ".settings", "2.0", "*.vc*"],
 		"file_exclude_patterns": ["*.pyc", "*.pyo", ".project", "*.checksum"],
 		"enable_count_lines":true,
 		"enable_count_chars":true,
