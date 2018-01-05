@@ -30,3 +30,6 @@ class ExampleCommand(sublime_plugin.TextCommand):
 
 
 ```
+> **Test plugin**
+- Open command line interface by `Ctrl + ~`.
+- Run `view.run_command("example")`
