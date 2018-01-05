@@ -79,6 +79,7 @@ Note: Make sure that you selected syntax type, before commenting
 > **Find project wide or find in all files**
 - `Ctrl + Shift + f`.
 - Exclude folder from search type `-*/folder_name/*` in where box.
+- Exclude files from search type `-*.cmm, -*.log, -*.bat` in where box.
 
 > **Jump to line**
 - `Ctrl + g` & type line no.
