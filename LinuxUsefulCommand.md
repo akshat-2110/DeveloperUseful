@@ -1,3 +1,7 @@
+> **Install all development related tools(gcc,make,etc)**
+- `sudo apt-get update`
+- `sudo apt-get install build-essential`
+
 > **Change file permission of whole folder**
 - `find 3.0/ -type f -exec chmod 666 {} \;`
 
