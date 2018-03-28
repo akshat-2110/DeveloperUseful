@@ -1,7 +1,7 @@
 
 ### Edit Faster
 
-> **Select all instances of a pattern **
+> **Select all instances of a pattern**
 - `Alt + F3`
 
 > **Write at multiple location simultaneously**
