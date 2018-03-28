@@ -1,6 +1,9 @@
 
 ### Edit Faster
 
+> **Select all instances of a pattern **
+- `Alt + F3`
+
 > **Write at multiple location simultaneously**
 - Put curson on word.
 - Press Ctrl + d as many time as many instance you want to edit or insert.
