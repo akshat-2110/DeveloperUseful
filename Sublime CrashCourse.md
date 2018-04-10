@@ -43,6 +43,9 @@ Note: Make sure that you selected syntax type, before commenting
 
 ### Traversing the Code
 
+> **Jump To Matching Bracket Addition**
+- `Ctrl+M`
+
 > **Goto end/beginning of file**
 - end/beginning = `Ctrl+End`/`Ctrl+Home`
 
