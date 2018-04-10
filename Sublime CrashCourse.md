@@ -43,6 +43,9 @@ Note: Make sure that you selected syntax type, before commenting
 
 ### Traversing the Code
 
+> **Traversing all funtion in file**
+- `Ctrl+R`
+
 > **Jump To Matching Bracket Addition**
 - `Ctrl+M`
 
