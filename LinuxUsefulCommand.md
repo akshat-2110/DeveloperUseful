@@ -19,7 +19,7 @@
 
 > **bash prompt setting**
 
-export PS1="\[\e[1;34m\]\u@\h  \[\e[0;33m\]\w\n\[\e[1;30m\]\$\[\e[0m\] "
+`export PS1="\[\e[1;34m\]\u@\h  \[\e[0;33m\]\w\n\[\e[1;30m\]\$\[\e[0m\] "`
 
 > **Watch output of any command every X seconds(Default is 2 sec)**
 
