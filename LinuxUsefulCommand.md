@@ -17,9 +17,9 @@
 - `command >out 2>&1` in `bash`.
 - `>&` in `csh`.
 
-> **Default bash prompt setting**
+> **bash prompt setting**
 
-export PS1='[\u@\h \W]\$ '
+export PS1="\[\e[1;34m\]\u@\h  \[\e[0;33m\]\w\n\[\e[1;30m\]\$\[\e[0m\] "
 
 > **Watch output of any command every X seconds(Default is 2 sec)**
 
