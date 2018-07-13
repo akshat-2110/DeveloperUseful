@@ -24,6 +24,9 @@ or
 > **Goto start/end of paragraph**
 - `Ctrl + Up/Down Arrow`
 
+> **Goto start/end of word**
+- `Ctrl + Left/Right Arrow`
+
 > **Create new folder**
 - `Ctrl + Shift + n`
 
