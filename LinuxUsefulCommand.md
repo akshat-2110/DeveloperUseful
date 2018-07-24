@@ -1,3 +1,7 @@
+> **Delete file/folder which has device or resource busy**
+- `lsof +D /path`
+- `kill -9 [PID]`
+
 > **Install all development related tools(gcc,make,etc)**
 - `sudo apt-get update`
 - `sudo apt-get install build-essential`
