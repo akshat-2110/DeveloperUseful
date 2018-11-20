@@ -33,6 +33,10 @@
 
 `sed -i 's/from/to/g' <PATH_TO_DIRECTORY>/*`
 
+> **Replace a string pattern of multiple files in directory**
+
+`for file in ./* ; do mv $file ${file//<from>/<to>} ; done`
+
 > **Print Directory Tree Structure**
 
 `ls -alR`
