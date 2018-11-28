@@ -31,7 +31,7 @@
 
 > **Replace a string in multiple files**
 
-`sed -i 's/from/to/g' <PATH_TO_DIRECTORY>/*`
+`sed -i 's/from/to/g' ./*`
 
 > **Rename a string pattern of multiple files in directory**
 
