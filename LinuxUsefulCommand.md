@@ -15,6 +15,7 @@
  - `vncserver -geometry 1920x1015`
  - `vncpasswd`
  - `vncconfig --nowin &` for copy/paste from windows
+ - `C:\TigerVNC\vncviewer.exe --PasswordFile=<path_to>\vishal\passwd --MenuKey=F12 --Maximize=1 --FullScreenAllMonitors=0 --DotWhenNoCursor=0 <server>:2`
 
 > **Redirect Error/Output to file**
 
