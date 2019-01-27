@@ -108,12 +108,10 @@ Note: Make sure that you selected syntax type, before commenting
 ```
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"fade_fold_buttons": false,
 	"font_size": 12,
 	"highlight_line": true,
 	"show_full_path": true,
-	"theme": "Soda Dark 3.sublime-theme"
 }
 ```
 > **Exclude folder/files in project browser**
