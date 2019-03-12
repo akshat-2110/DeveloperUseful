@@ -41,6 +41,9 @@ Finally, this is advice I've only taken recently, really pay attention to your m
 ### Evils & Enemies
 - 
 
+### Uncatagorized
+- Till the time i was maitaining todo list, but never making it empty. There is always something in it which gives me continuous anxiety. Now i have learned to deal with todo list. Till the time i was only known to make todo list, but not learned it to achieve it in rightful manner. 
+
 ### References
 - [The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY&index=4&list=WL)
 - Many QnA on reddit.
