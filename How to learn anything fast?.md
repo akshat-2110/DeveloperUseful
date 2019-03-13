@@ -11,6 +11,9 @@
 
 - There’s a lot of this stuff out there supported by good evidence (and some less so), but unfortunately most of the best is buried deep in the scientific literature, where it’s not super accessible for students busy learning other things.
 ### Learning faster
+- There is no shortcuts believe me. This is truth.
+- Even science proved that when you learn something new it will create/alter neurons structure. But this structure take time to strengthen its connection. Whe you do spaced repeatition, this connection strengthen over the time. This will create long term memory.
+- But yes there technique by which you can absorb information plausibly fast & longer period of time. As i said spaced repeatition will help. What i do is maintain online notes with reminder of every morning 9 AM when my day starts.
 
 ### Memorizing it better
 - Find out the route cause of problem why it arised at first place. Which forms complete story. As most of the story is divided in three part beginning-struggle-happy-ending. So finding reason "why we need it?" makes your topic as a story & solution would be happy ending reading that topic is your struggle. And story is easy to remember.
@@ -47,3 +50,4 @@ Finally, this is advice I've only taken recently, really pay attention to your m
 ### References
 - [The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY&index=4&list=WL)
 - Many QnA on reddit.
+- [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn).
