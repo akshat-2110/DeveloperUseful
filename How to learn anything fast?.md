@@ -81,8 +81,9 @@ This is very abstract process. There are other parameters which hamper with this
 - There's a lot of this stuff out there supported by good evidence (and some less so), but unfortunately most of the best is buried deep in the scientific literature, where it's not super accessible for people busy in day to day life or learning other things.
 
 
-> **Success doesn't come from being smart, it comes from being passionate and persistent.**
-# RTL - Dr. Terrence Sejnowski
+> **Success doesn't come from being smart, it comes from being passionate and persistent. 
+                                                                  - Dr. Terrence Sejnowski**
+
 > ****
 Elon Musk
 > 
