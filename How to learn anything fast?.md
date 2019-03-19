@@ -1,16 +1,16 @@
 # UNDERDEVEL
 ### Intro
 - I am a Software Developer for more than 5 years now. The the work involved in my profession is keep changing in few years & the work i do is also push me to read many lengthy docs every day. Although my project deadline not permit me to learn each & every word, concept & mechanism from the doc. And yet i have to build some greate thing using those insufficient(i would say not solid) knowledge.
-- Apart from this i also want to keep updating my self with new knowledge & skills for my personal development. This doesnt bother me rather i like it cause I am Learning Junkie.
-- As per my current job, i am SoC modeling engineer & my day to day work involves reading specification which are boring lengthy & not solid.Some time customer not provide enough information for their safety/proprietory or whatever reason.In this case, we have to guess the functionality on the basis of expirience & contex in which we are going to use those IP. Moreover 50% information is not available on internet because the thing on which we are working is either proprietory or being develop 1st time.
-- if there's one thing that never changes about this job it's that it is always changing. There are always new things to learn. I love that part of it.
+- Apart from this i also want to keep updating my self with new knowledge & skills for my personal development. This doesnt bother me rather i like it cause I am Learning Junkie & I have real learning appetite.
+- As per my current job, i am SoC modeling engineer & my day to day work involves reading specification which are boring lengthy & not solid. Some time customer not provide enough information for their safety/proprietory or whatever reason. In this case, we have to guess the functionality on the basis of expirience & contex in which we are going to use those IP. Moreover 50% information is not available on internet because the thing on which we are working is either proprietory or being develop 1st time.
+- This scenario gives me opportunity to find process, tips & tricks on how to learn fast.
 - This article would be subjective thing. But still i want to saw my perspective to world. Which may or may not help someone. So i was in search of formula which i can apply anywhere to learn things faster. Here is my observation:
 ### Learning vs Memorizing vs Skill
 - I would define "Learning" as process of acquiring new knowledge.
-- I would define "Memorizing" as process of storing the infromation in certain formation in our brain. Mind that i have used word certaing here becuase i dont know how information stores in brain but as per my intellect i can prove that it stored using metadata as we store files in OS. For example i would ask you "What you ate yesterday in lunch?", you probably have to recall that. But if you found some bug in your rice bowl or something heppens with food your were eating, you might be remember it nicely without recalling it right now.
-- Skill is enforcing acquired knowledge into real life to sick some other benefit from life. For example your mother tongue, you have not done any course or acedemic related to your mother tongue language you learned it just by listing & watching how other peoople around you speaking it while you were child. Later on you learned to write & read that language in academics & using it for now. 
+- "Memorizing" is process of storing the infromation in certain form in our brain. Mind that i have used words "ceratin form" here becuase i don't know how information stores in brain but as per my intellect i can prove that it stored using metadata as we store files in OS. For example i would ask you "What you ate yesterday in lunch?", you probably have to recall that. But if you found some bug in your rice bowl or something heppens with food you were eating, you might be remember it nicely without recalling it right now. So that bug or situation is meta data for your information.
+- Skill is enforcing acquired knowledge into real life to sick some kind of benefit from life. For example your mother tongue, you have not done any course or acedemic related to your mother tongue language you learned it just by listing & watching how other peoople around you speaking it while you were child. Later on you learned to write & read that language in academics & using it for now. 
 
-- There’s a lot of this stuff out there supported by good evidence (and some less so), but unfortunately most of the best is buried deep in the scientific literature, where it’s not super accessible for students busy learning other things.
+
 ### Learning faster
 
 First time learning something:
@@ -73,6 +73,7 @@ Finally, this is advice I've only taken recently, really pay attention to your m
 ### Uncatagorized
 - Till the time i was maitaining todo list, but never making it empty. There is always something in it which gives me continuous anxiety. Now i have learned to deal with todo list. Till the time i was only known to make todo list, but not learned it to achieve it in rightful manner. 
 - A good way to pay attention in a boring class is to ask a question - it clears your doubt, it creates a possibly more interesting discussion, it is a more active learning process.
+- There’s a lot of this stuff out there supported by good evidence (and some less so), but unfortunately most of the best is buried deep in the scientific literature, where it’s not super accessible for students busy learning other things.
 
 ### Closing article
 > **Success doesn't come from being smart, it comes from being passionate and persistent.**
