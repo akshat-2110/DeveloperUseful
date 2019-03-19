@@ -26,11 +26,11 @@ Default brain reactions: Anxiety, Frustration, Angry & what not.
 
 - Rather what you have to do is 
 
-**Step 0(KICKSTART)**: Just dont think anything, START DOING.
+**Step 0(KICKSTART)**: Just dont think anything, ans start doing.
 
-**Step 1(BRIEFING)**: Go through major ideas, key concepts or points quickly.
+**Step 1(BRIEFING)**: Go through major ideas, key concepts or points quickly. 
 
-**Step 2(CHUNKING)**: Start chunking it and read those points individually in layman term. Also boil down concept in simple words, sentences or visual image. In order to master a concept, you not only need to know it but also to know how it fits into the bigger picture.
+**Step 2(CHUNKING)**: Start chunking it and grasp those points/concepts/ideas individually. Also boil down concept in simple words, sentences or visual image. In order to master a concept, you not only need to know it but also to know how it fits into the bigger picture. There might be possibility at this point you are not able see bigger picture but keep going, move to next chunk.
 
 **Step 3(CONNECTING-DOTS)**: By the end of your all chunk understanding. Your mind automatically try to connect those chunks with each other and eventualy you will get bigger picture. I am pretty sure all these chunks are connected to each other with some relation, use or context.
 
@@ -47,7 +47,7 @@ Step 0(SPACED-REPETITION): Outcome of chunking is single abstract word or senten
 Step 1(INTERLEAVING): Once you have a basic understanding of what you are trying to learn, interleaving can be used to help you master the concepts. By practicing jumping back and forth between problems that require different techniques, you can solidify your understanding of the concepts by learning how to choose to apply them in various situations. 
 Step 2(TEST): In order to avoid or break through illusions of competence, you should test yourself as you’re encountering new material. Recall is a simple example of this mini-testing. So keep testing your knowledge to different scenario.
 
-Helpers
+##### Helpers
 - For spaced-repetition, Flashcards might help(Consider using Anki). Although i use google keep with reminder once a day and go though words of vocabulary. Visual image will also be much beneficial. 
 - Find out the route cause of problem why it arised at first place. Which forms complete story. As most of the story is divided in three part beginning, struggle & happy-ending. So finding reason "why we need it?" makes your topic as a story & solution would be happy ending, trying different things to find solution to that topic is your struggle. And story is easy to remember.
 - Also try to connect ideas. Though seriously, connecting ideas not only helps you remember them easier (like using landmarks helps prevent getting lost) it also helps you use the ideas more efficiently! You can connect the ideas and have them work together during the problem solving process.
@@ -64,7 +64,7 @@ Helpers
 Step 0(PRACTICE): Practice deliberatly in different context/problems.
 Step 1(PLATFORM): Find a platform where you can show/grasp related knowledge. Like if you want to learn spanish, listen to spanish radio channel participate in spanish competition. If you want to be skilled in programming practice on HackeRank, HackerEarth kind of platform who provides challenging problems. Talking about it with other peoples interested in the subject (Reddit/Quora/Social-media is useful for that). Hangout with like minded people.
 
-Helpers
+##### Helpers
 - Growth mindset: See your failures as a learning opportunity & analyse others/better solutions. Your errors are sometimes easier to be found by others. So always ask for advice/reviews & be open for the same. Explaining yourself to others, helps you understand more. 
 - Illusions of Competence: There are many ways in which we can make ourselves feel like we have "learned" a concept. For example, looking at a solution and thinking that you know how to arrive at that solution is one of the most common illusions of competence in learning. Highlighting or underlining are also techniques that often lead to this illusion of learning. On the other hand, brief notes that summarize keys concepts are much more effective like flashcards. 
 
