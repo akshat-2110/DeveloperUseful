@@ -1,9 +1,9 @@
 # UNDERDEVEL
 ### Intro
-- I am Learning Junkie.
-- Thw work involved in my profession is keep changing in few years & the work i do is also push me to read many lengthy docs every day. Although my project deadline is not permit me to learn each & every word, concept & mechanism from the doc. And yet i have to build some greate thing using those insufficient knowledge.
+- I am a Software Developer for more than 5 years now. The the work involved in my profession is keep changing in few years & the work i do is also push me to read many lengthy docs every day. Although my project deadline not permit me to learn each & every word, concept & mechanism from the doc. And yet i have to build some greate thing using those insufficient(i would say not solid) knowledge.
+- Apart from this i also want to keep updating my self with new knowledge & skills for my personal development. This doesnt bother me rather i like it cause I am Learning Junkie.
 - As per my current job, i am SoC modeling engineer & my day to day work involves reading specification which are boring lengthy & not solid.Some time customer not provide enough information for their safety/proprietory or whatever reason.In this case, we have to guess the functionality on the basis of expirience & contex in which we are going to use those IP. Moreover 50% information is not available on internet because the thing on which we are working is either proprietory or being develop 1st time.
-- I’ve been a Software Developer for more than 4 years now and if there’s one thing that never changes about this job it’s that it is always changing. There are always new things to learn. I love that part of it.
+- if there's one thing that never changes about this job it's that it is always changing. There are always new things to learn. I love that part of it.
 - This article would be subjective thing. But still i want to saw my perspective to world. Which may or may not help someone. So i was in search of formula which i can apply anywhere to learn things faster. Here is my observation:
 ### Learning vs Memorizing vs Skill
 - I would define "Learning" as process of acquiring new knowledge.
