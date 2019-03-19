@@ -80,6 +80,7 @@ This is very abstract process. There are other parameters which hamper with this
 - There's a lot of this stuff out there supported by good evidence (and some less so), but unfortunately most of the best is buried deep in the scientific literature, where it's not super accessible for people busy in day to day life or learning other things.
 
 > **Success doesn't come from being smart, it comes from being passionate and persistent. - Dr. Terrence Sejnowski**
+
 > **Finally, this is advice I've only taken recently, really pay attention to your mental health. It is really easy to get caught up in the pursuit of knowledge and lose sight of everything else. You can kind of dehumanize everyone else because of views or thoughts that you consider foolish. Before you know it you have isolated yourself from everyone, lost any trace of empathy, and are struggling to maintain normal human relationships now. That last part might be a little too personal to my situation haha, but you get the idea. - Someone on Reddit**
 
 > **It is inevitable that you will forget the finer details of a large percent of what you learn, but by discovering how you learn best and teaching yourself the proper techniques you can dramatically lower that percentage and increase your retention as well as the amount of time it takes you to relearn a piece of information. - Someone on Reddit**
