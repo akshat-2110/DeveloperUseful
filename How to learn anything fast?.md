@@ -43,9 +43,11 @@ This is very abstract process. There are other parameters which hamper with this
 
 ### Memorizing better
 
-Step 0(SPACED-REPETITION): Outcome of chunking is single abstract word or sentence. You need to write it some where and need to re-learn it over the time. Why over the time is because neural structure takes time to strengthen its connection. This stong connection makes long term memory.
-Step 1(INTERLEAVING): Once you have a basic understanding of what you are trying to learn, interleaving can be used to help you master the concepts. By practicing jumping back and forth between problems that require different techniques, you can solidify your understanding of the concepts by learning how to choose to apply them in various situations. 
-Step 2(TEST): In order to avoid or break through illusions of competence, you should test yourself as you’re encountering new material. Recall is a simple example of this mini-testing. So keep testing your knowledge to different scenario.
+**Step 0(SPACED-REPETITION)**: Outcome of chunking is single abstract word or sentence. You need to write it some where and need to re-learn it over the time. Why over the time is because neural structure takes time to strengthen its connection. This stong connection makes long term memory.
+
+**Step 1(INTERLEAVING)**: Once you have a basic understanding of what you are trying to learn, interleaving can be used to help you master the concepts. By practicing jumping back and forth between problems that require different techniques, you can solidify your understanding of the concepts by learning how to choose to apply them in various situations. 
+
+**Step 2(TEST)**: In order to avoid or break through illusions of competence, you should test yourself as you’re encountering new material. Recall is a simple example of this mini-testing. So keep testing your knowledge to different scenario.
 
 ##### Helpers
 - For spaced-repetition, Flashcards might help(Consider using Anki). Although i use google keep with reminder once a day and go though words of vocabulary. Visual image will also be much beneficial. 
