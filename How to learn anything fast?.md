@@ -1,4 +1,4 @@
-### Intro
+## Intro
 - I am a Software Developer for more than 5 years now. The the work involved in my profession is keep changing in few years & the work i do is also push me to read many lengthy docs every day. Although my project deadline not permit me to learn each & every word, concept & mechanism from the doc. And yet i have to build some greate thing using those insufficient(i would say not solid) knowledge.
 - Apart from this i also want to keep updating my self with new knowledge & skills for my personal development. This doesnt bother me rather i like it cause I am Learning Junkie & I have real learning appetite.
 - As per my current job, i am SoC modeling engineer & my day to day work involves reading specification which are boring lengthy & not solid. Some time customer not provide enough information for their safety/proprietory or whatever reason. In this case, we have to guess the functionality on the basis of expirience & contex in which we are going to use those IP. Moreover 50% information is not available on internet because the thing on which we are working is either proprietory or being develop 1st time.
@@ -6,14 +6,14 @@
 - This article is subjective. But still i want to saw my perspective to the world. Which may or may not help someone. So i was in search of formula which i can apply anywhere to learn things faster. Here is my observations & learning:
 
 
-### Learning vs Memorizing vs Skill
+## Learning vs Memorizing vs Skill
 - I would define "Learning" as process of acquiring new knowledge.
 - "Memorizing" is process of storing the infromation in certain form in our brain. Mind that i have used words "ceratin form" here becuase i don't know how information stores in brain but as per my intellect i can prove that it stored using metadata as we store files in OS. For example, i would ask you "What you ate yesterday in lunch?", you probably have to recall that. But if you found some bug in your rice bowl or something heppens with food you were eating, you might be remember it nicely without recalling it right now. So that bug or situation is metadata for your information.
 - Skill is enforcing acquired knowledge into real life to sick some kind of benefit. 
 - Skill is easily distinguishable but people often consider Learning & Memorizing as same.
 
 
-### Learning faster
+## Learning faster
 - There is no shortcuts believe me. This is truth.
 - Even science proved that when you learn something new it will create/alter neurons structure in your brain. But this structure take time to strengthen its connection. When you do spaced-repetition, practice or test your self, this connection strengthen over the time. This will create long term memory. And this is the real process how your brain learn things.
 - But yes there are techniques by which you can absorb information plausibly fast & for longer period of time.
@@ -41,7 +41,7 @@ This is very abstract process. There are other parameters which hamper with this
 - Procrastination: When facing procrastination, think of process over product. I often procrastinate when I’m overwhelmed by the thought, "Ok, I have to get X done". Instead, it can be beneficial to think, "Ok, I will spend an hour on X" — which isn't overwhelming, doesn't require a long breakdown of tasks, and gets me started (90% of the battle).
 - Interest: There are time you know this is important but you are not interested in it &  for that i have learned from Dr. Terrence Sejnowski is that "A good way to pay attention in a boring class is to ask a question - it clears your doubt, it creates a possibly more interesting discussion, it is a more active learning process. Rather passive listening"
 
-### Memorizing better
+## Memorizing better
 
 **Step 0(SPACED-REPETITION)**: Outcome of chunking is single abstract word or sentence. You need to write it some where and need to re-learn it over the time. Why over the time is because neural structure takes time to strengthen its connection. This stong connection makes long term memory.
 
@@ -59,7 +59,7 @@ This is very abstract process. There are other parameters which hamper with this
 
 
 
-### Converting to skill
+## Converting to skill
 - This is untouched portion no one talks about. According to me, what is point of knowledge that you can not use in real life(its kind of learning about ghost).
 - Know when to apply a particular concept is as important as knowing how.
 
@@ -92,7 +92,7 @@ Elon Musk
 
 - It is inevitable that you will forget the finer details of a large percent of what you learn, but by discovering how you learn best and teaching yourself the proper techniques you can dramatically lower that percentage and increase your retention as well as the amount of time it takes you to relearn a piece of information.
 
-### References
+## References
 - [The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY&index=4&list=WL)
 - Many QnA on reddit.
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn).
