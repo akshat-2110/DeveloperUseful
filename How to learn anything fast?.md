@@ -12,11 +12,18 @@
 
 - There’s a lot of this stuff out there supported by good evidence (and some less so), but unfortunately most of the best is buried deep in the scientific literature, where it’s not super accessible for students busy learning other things.
 ### Learning faster
+
+First time learning something:
+
+The first time you do something the deluge of information coming at you would make the job seem almost impossibly difficult. But, once you've chunked it, it will be simple.
+
+At first, it's really hard, later it's easy. It becomes like a habit. Ex: Driving for the first time.
+
 - There is no shortcuts believe me. This is truth.
 - Even science proved that when you learn something new it will create/alter neurons structure. But this structure take time to strengthen its connection. Whe you do spaced repeatition, this connection strengthen over the time. This will create long term memory.
 - But yes there technique by which you can absorb information plausibly fast & longer period of time. As i said spaced repeatition will help. What i do is maintain online notes with reminder of every morning 9 AM when my day starts.
 - Chunking: This is the idea of breaking what you want to learn into concepts. The goal is to learn each concept in a way that they each become like a well-known puzzle piece. In order to master a concept, you not only need to know it but also to know how it fits into the bigger picture. First, survey and priming — this involves scanning a book or the syllabus of a course, for example, to get a general idea of the bigger picture. Second, observe an example. Then, do it yourself. And, finally, do it again and again in different contexts.
-Beware of Illusions of Competence: There are many ways in which we can make ourselves feel like we have “learned” a concept. For example, looking at a solution and thinking that you know how to arrive at that solution is one of the most common illusions of competence in learning. Highlighting or underlining are also techniques that often lead to this illusion of learning. On the other hand, brief notes that summarize keys concepts are much more effective like flashcards.
+Beware of Illusions of Competence: There are many ways in which we can make ourselves feel like we have “learned” a concept. For example, looking at a solution and thinking that you know how to arrive at that solution is one of the most common illusions of competence in learning. Highlighting or underlining are also techniques that often lead to this illusion of learning. On the other hand, brief notes that summarize keys concepts are much more effective like flashcards. Pieces of information, neuroscientifically speaking, bond together through use and meaning. 
 Test: In order to avoid or break through illusions of competence, you should test yourself as you’re encountering new material. Recall is a simple example of this mini-testing.
 Interleaving: Once you have a basic understanding of what you are trying to learn, interleaving can be used to help you master the concepts. By practicing jumping back and forth between problems that require different techniques, you can solidify your understanding of the concepts by learning how to choose to apply them in various situations. Know when to apply a particular concept is as important as knowing how.
 Process over Product: When facing procrastination, think of process over product. I often procrastinate when I’m overwhelmed by the thought, “Ok, I have to get X done”. Instead, it can be beneficial to think, “Ok, I will spend an hour on X” — which isn’t overwhelming, doesn’t require a long breakdown of tasks, and gets me started (90% of the battle).
@@ -26,6 +33,13 @@ Process over Product: When facing procrastination, think of process over product
 - Also try to connect ideas.Though seriously, connecting ideas not only helps you remember them easier (like using landmarks helps prevent getting lost) it also helps you use the ideas more efficiently! You can connect the ideas and have them work together during the problem solving process.
 - Once you really understand something you can relate it to many things.
 - It is inevitable that you will forget the finer details of a large percent of what you learn, but by discovering how you learn best and teaching yourself the proper techniques you can dramatically lower that percentage and increase your retention as well as the amount of time it takes you to relearn a piece of information.
+- Keep repeating what you want to learn so that the metabolic toxins won’t suck away the neural patterns related to that memory. Spaced repetition is the key.
+
+Flashcards help. Consider using Anki.
+
+Handwriting helps you deeply convert what you are trying to learn into neural memory structures.
+
+Visual image
 
 ### Converting it to skill
 
@@ -46,12 +60,26 @@ Keeping doing that for every subject I've practiced until now.
 
 
 Finally, this is advice I've only taken recently, really pay attention to your mental health. It is really easy to get caught up in the pursuit of knowledge and lose sight of everything else. You can kind of dehumanize everyone else because of views or thoughts that you consider foolish. Before you know it you have isolated yourself from everyone, lost any trace of empathy, and are struggling to maintain normal human relationships now. That last part might be a little too personal to my situation haha, but you get the idea.
-
-### Evils & Enemies
-- 
+### Do's
+- Your errors are sometimes easier to be found by others.
+- Explaining yourself to others helps you understand more.
+- Alwasy ask questions like how & why? this will lead you to story or purpose things you are doing right now & help you create long term memory.
+### Don'ts 
+- Pieces of information, neuroscientifically speaking, bond together through use and meaning. 
+- A big mistake is to blindly start working on an exercise without reading the textbook or attending the class. 
+- Procrastination:you procastinate because of overwhelmed by information. To avoid this use pomodoro & focus on process rather complete product.
+- Having fixed mindset rather than growth mindset.
 
 ### Uncatagorized
 - Till the time i was maitaining todo list, but never making it empty. There is always something in it which gives me continuous anxiety. Now i have learned to deal with todo list. Till the time i was only known to make todo list, but not learned it to achieve it in rightful manner. 
+- A good way to pay attention in a boring class is to ask a question - it clears your doubt, it creates a possibly more interesting discussion, it is a more active learning process.
+
+### Closing article
+> **Success doesn't come from being smart, it comes from being passionate and persistent.**
+Dr. Terrence Sejnowski
+> ****
+Elon Musk
+> 
 
 ### References
 - [The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY&index=4&list=WL)
