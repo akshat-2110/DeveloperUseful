@@ -82,7 +82,7 @@ This is very abstract process. There are other parameters which hamper with this
 
 
 > **Success doesn't come from being smart, it comes from being passionate and persistent.**
-<div style="text-align: right"> - Dr. Terrence Sejnowski </div>
+# RTL - Dr. Terrence Sejnowski
 > ****
 Elon Musk
 > 
