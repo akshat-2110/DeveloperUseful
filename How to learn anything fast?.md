@@ -10,30 +10,32 @@
 ### Learning vs Memorizing vs Skill
 - I would define "Learning" as process of acquiring new knowledge.
 - "Memorizing" is process of storing the infromation in certain form in our brain. Mind that i have used words "ceratin form" here becuase i don't know how information stores in brain but as per my intellect i can prove that it stored using metadata as we store files in OS. For example, i would ask you "What you ate yesterday in lunch?", you probably have to recall that. But if you found some bug in your rice bowl or something heppens with food you were eating, you might be remember it nicely without recalling it right now. So that bug or situation is metadata for your information.
-- Skill is enforcing acquired knowledge into real life to sick some kind of benefit from life. For example your mother tongue, you have not done any course or academic to learn your mother tongue language. You learned it just by listing & watching how other peoople around you speaking it while you were child. Later on you learned to write & read that language in academics & using it for now to communication with people around you. 
+- Skill is enforcing acquired knowledge into real life to sick some kind of benefit. 
+- Skill is easily distinguishable but people often consider Learning & Memorizing as same.
 
 
 ### Learning faster
 - There is no shortcuts believe me. This is truth.
-- Even science proved that when you learn something new it will create/alter neurons structure in your brain. But this structure take time to strengthen its connection. When you do spaced-repetition, practice or test your self this connection strengthen over the time. This will create long term memory. And this is the real process how your brain learn things.
+- Even science proved that when you learn something new it will create/alter neurons structure in your brain. But this structure take time to strengthen its connection. When you do spaced-repetition, practice or test your self, this connection strengthen over the time. This will create long term memory. And this is the real process how your brain learn things.
 - But yes there are techniques by which you can absorb information plausibly fast & for longer period of time.
+- When you try to learn something first time, deluge of information coming at you would make the job seem almost impossibly difficult. You will be overwhelmed by amount of information & your brain is trained in a fashion that it will focus on result directly. 
+- In this case, there will be two possibility
+  1. Either you procastinate & focus on other thing which will please your mind temporarily.
+  2. Or you start with great enthusiasm just by considering result & you left it somewhere in between your struggle.
 
-Problem statement: First time learning something
-- The first time you do something the deluge of information coming at you would make the job seem almost impossibly difficult. You will be overwhelmed by amout of information & your brain is trained in a fashion that it will focus on result directly. 
-- In this there will be two possibility
-1. Either you procastinate & focus on other thing which will please your mind temporarily.
-2. Or you start will great enthusiasm just by considering result & you left it somewhere in between your struggle.
-
-Both the way you are not achieving anything.
 Default brain reactions: Anxiety, Frustration, Angry & what not.
 
 - Rather what you have to do is 
-Step 0(KICKSTART): Just dont think anything, START DOING.
-Step 1(BRIEFING): Go through major ideas, key concepts or points quickly.
-Step 2(CHUNKING): Start chunking it and read those points individually in layman term. Also boil down concept in simple words, sentences or visual image. In order to master a concept, you not only need to know it but also to know how it fits into the bigger picture.
-Step 3(CONNECTING-DOTS): By the end of your all chunk understanding. Your mind automatically try to connect those chunks with each other and eventualy you will get bigger picture. I am pretty sure all these chunks are connected to each other with some relation, use or context.
 
-This is very abstract process. There are other parameters which hamper with this learning is like unable to remember, distractions, focus, interest, etc. which we will see in later in this article.
+**Step 0(KICKSTART)**: Just dont think anything, START DOING.
+
+**Step 1(BRIEFING)**: Go through major ideas, key concepts or points quickly.
+
+**Step 2(CHUNKING)**: Start chunking it and read those points individually in layman term. Also boil down concept in simple words, sentences or visual image. In order to master a concept, you not only need to know it but also to know how it fits into the bigger picture.
+
+**Step 3(CONNECTING-DOTS)**: By the end of your all chunk understanding. Your mind automatically try to connect those chunks with each other and eventualy you will get bigger picture. I am pretty sure all these chunks are connected to each other with some relation, use or context.
+
+This is very abstract process. There are other parameters which hamper with this learning is like unable to remember, distractions, focus, interest, etc. 
 
 Helpers
 - Distractions: Do not place your mobile or distracting/addictive thing infront of study material. Use pomodoro technique. Try to focus on developing process rather focusing on product.
