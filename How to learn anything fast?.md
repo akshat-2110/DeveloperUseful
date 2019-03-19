@@ -43,11 +43,11 @@ This is very abstract process. There are other parameters which hamper with this
 
 ## Memorizing better
 
-**Step 0(SPACED-REPETITION)**: Outcome of chunking is single abstract word or sentence. You need to write it some where and need to re-learn it over the time. Why over the time is because neural structure takes time to strengthen its connection. This stong connection makes long term memory.
+**Step 0(SPACED-REPETITION)**: Outcome of chunking is single abstract word or sentence. You need to write it somewhere and need to revise it over the time. "Why over the time?" is because neural structure takes time to strengthen its connection. This stong connection makes long term memory as i said earlier.
 
 **Step 1(INTERLEAVING)**: Once you have a basic understanding of what you are trying to learn, interleaving can be used to help you master the concepts. By practicing jumping back and forth between problems that require different techniques, you can solidify your understanding of the concepts by learning how to choose to apply them in various situations. 
 
-**Step 2(TEST)**: In order to avoid or break through illusions of competence, you should test yourself as you’re encountering new material. Recall is a simple example of this mini-testing. So keep testing your knowledge to different scenario.
+**Step 2(TEST)**: In order to avoid or break through illusions of competence, you should test yourself as you're encountering new material. Recall is a simple example of this mini-testing. So keep testing your knowledge to different scenario.
 
 ##### Helpers
 - For spaced-repetition, Flashcards might help(Consider using Anki). Although i use google keep with reminder once a day and go though words of vocabulary. Visual image will also be much beneficial. 
@@ -60,10 +60,9 @@ This is very abstract process. There are other parameters which hamper with this
 
 
 ## Converting to skill
-- This is untouched portion no one talks about. According to me, what is point of knowledge that you can not use in real life(its kind of learning about ghost).
-- Know when to apply a particular concept is as important as knowing how.
+- This is untouched portion no one talks about. Knowing when to apply a particular concept is as important as knowing how.
 
-**Step 0(PRACTICE)**: Practice deliberatly in different context/problems.
+**Step 0(PRACTICE)**: Practice deliberatly on different context/problems.
 
 **Step 1(PLATFORM)**: Find a platform where you can show/grasp related knowledge. Like if you want to learn spanish, listen to spanish radio channel participate in spanish competition. If you want to be skilled in programming practice on HackeRank, HackerEarth kind of platform who provides challenging problems. Talking about it with other peoples interested in the subject (Reddit/Quora/Social-media is useful for that). Hangout with like minded people.
 
@@ -83,12 +82,8 @@ This is very abstract process. There are other parameters which hamper with this
 
 > **Success doesn't come from being smart, it comes from being passionate and persistent. - Dr. Terrence Sejnowski**
 
-> ****
-Elon Musk
-> 
 
-
-- Finally, this is advice I've only taken recently, really pay attention to your mental health. It is really easy to get caught up in the pursuit of knowledge and lose sight of everything else. You can kind of dehumanize everyone else because of views or thoughts that you consider foolish. Before you know it you have isolated yourself from everyone, lost any trace of empathy, and are struggling to maintain normal human relationships now. That last part might be a little too personal to my situation haha, but you get the idea.
+> **Finally, this is advice I've only taken recently, really pay attention to your mental health. It is really easy to get caught up in the pursuit of knowledge and lose sight of everything else. You can kind of dehumanize everyone else because of views or thoughts that you consider foolish. Before you know it you have isolated yourself from everyone, lost any trace of empathy, and are struggling to maintain normal human relationships now. That last part might be a little too personal to my situation haha, but you get the idea. - Reddit**
 
 - It is inevitable that you will forget the finer details of a large percent of what you learn, but by discovering how you learn best and teaching yourself the proper techniques you can dramatically lower that percentage and increase your retention as well as the amount of time it takes you to relearn a piece of information.
 
