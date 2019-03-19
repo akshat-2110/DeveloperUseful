@@ -1,4 +1,3 @@
-# UNDERDEVEL
 ### Intro
 - I am a Software Developer for more than 5 years now. The the work involved in my profession is keep changing in few years & the work i do is also push me to read many lengthy docs every day. Although my project deadline not permit me to learn each & every word, concept & mechanism from the doc. And yet i have to build some greate thing using those insufficient(i would say not solid) knowledge.
 - Apart from this i also want to keep updating my self with new knowledge & skills for my personal development. This doesnt bother me rather i like it cause I am Learning Junkie & I have real learning appetite.
@@ -37,7 +36,7 @@ Default brain reactions: Anxiety, Frustration, Angry & what not.
 
 This is very abstract process. There are other parameters which hamper with this learning is like unable to remember, distractions, focus, interest, etc. 
 
-Helpers
+##### Helpers
 - Distractions: Do not place your mobile or distracting/addictive thing infront of study material. Use pomodoro technique. Try to focus on developing process rather focusing on product.
 - Procrastination: When facing procrastination, think of process over product. I often procrastinate when I’m overwhelmed by the thought, "Ok, I have to get X done". Instead, it can be beneficial to think, "Ok, I will spend an hour on X" — which isn't overwhelming, doesn't require a long breakdown of tasks, and gets me started (90% of the battle).
 - Interest: There are time you know this is important but you are not interested in it &  for that i have learned from Dr. Terrence Sejnowski is that "A good way to pay attention in a boring class is to ask a question - it clears your doubt, it creates a possibly more interesting discussion, it is a more active learning process. Rather passive listening"
