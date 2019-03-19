@@ -1,10 +1,8 @@
 ## Intro
 - I am a Software Developer for more than 5 years now. The the work involved in my profession is keep changing in few years & the work i do is also push me to read many lengthy docs every day. Although my project deadline not permit me to learn each & every word, concept & mechanism from the doc. And yet i have to build some greate thing using those insufficient(i would say not solid) knowledge.
 - Apart from this i also want to keep updating my self with new knowledge & skills for my personal development. This doesnt bother me rather i like it cause I am Learning Junkie & I have real learning appetite.
-- As per my current job, i am SoC modeling engineer & my day to day work involves reading specification which are boring lengthy & not solid. Some time customer not provide enough information for their safety/proprietory or whatever reason. In this case, we have to guess the functionality on the basis of expirience & contex in which we are going to use those IP. Moreover 50% information is not available on internet because the thing on which we are working is either proprietory or being develop 1st time.
-- This scenario gives me opportunity to find process, tips & tricks on how to learn fast.
-- This article is subjective. But still i want to saw my perspective to the world. Which may or may not help someone. So i was in search of formula which i can apply anywhere to learn things faster. Here is my observations & learning:
-
+- As per my current job, i am SoC modeling engineer & my day to day work involves reading specification which are boring lengthy & not solid. Some time customer not provide enough information for their safety/proprietory or whatever reason. In this case, we have to guess the functionality on the basis of expirience & contex in which we are going to use those docs. Moreover 50% information is not available on internet because the thing on which we are working is either proprietory or being develop 1st time.
+- This scenario gives me opportunity to find process, tips & tricks on how to learn fast. After going through many TED talks video, Coursera course on Learning how to learn, Reddit & Quora posts, Famous person interviews, here is my observations & learning:
 
 ## Learning vs Memorizing vs Skill
 - I would define "Learning" as process of acquiring new knowledge.
