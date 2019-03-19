@@ -63,8 +63,9 @@ This is very abstract process. There are other parameters which hamper with this
 - This is untouched portion no one talks about. According to me, what is point of knowledge that you can not use in real life(its kind of learning about ghost).
 - Know when to apply a particular concept is as important as knowing how.
 
-Step 0(PRACTICE): Practice deliberatly in different context/problems.
-Step 1(PLATFORM): Find a platform where you can show/grasp related knowledge. Like if you want to learn spanish, listen to spanish radio channel participate in spanish competition. If you want to be skilled in programming practice on HackeRank, HackerEarth kind of platform who provides challenging problems. Talking about it with other peoples interested in the subject (Reddit/Quora/Social-media is useful for that). Hangout with like minded people.
+**Step 0(PRACTICE)**: Practice deliberatly in different context/problems.
+
+**Step 1(PLATFORM)**: Find a platform where you can show/grasp related knowledge. Like if you want to learn spanish, listen to spanish radio channel participate in spanish competition. If you want to be skilled in programming practice on HackeRank, HackerEarth kind of platform who provides challenging problems. Talking about it with other peoples interested in the subject (Reddit/Quora/Social-media is useful for that). Hangout with like minded people.
 
 ##### Helpers
 - Growth mindset: See your failures as a learning opportunity & analyse others/better solutions. Your errors are sometimes easier to be found by others. So always ask for advice/reviews & be open for the same. Explaining yourself to others, helps you understand more. 
