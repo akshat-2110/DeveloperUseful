@@ -70,22 +70,19 @@ This is very abstract process. There are other parameters which hamper with this
 - Growth mindset: See your failures as a learning opportunity & analyse others/better solutions. Your errors are sometimes easier to be found by others. So always ask for advice/reviews & be open for the same. Explaining yourself to others, helps you understand more. 
 - Illusions of Competence: There are many ways in which we can make ourselves feel like we have "learned" a concept. For example, looking at a solution and thinking that you know how to arrive at that solution is one of the most common illusions of competence in learning. Highlighting or underlining are also techniques that often lead to this illusion of learning. On the other hand, brief notes that summarize keys concepts are much more effective like flashcards. 
 
-### Confirming aquired skill/concept/learning
+##### Confirming aquired skill/concept/learning
 - You should be able to visualize it in mind.
 - You will be able to teach that thing to non-technical person.
 - You can be able explain it to someone with block digram in 5-10 mins.
 - Once you really understand something you can relate it to many things.
 
-### Closing words
+## Closing words
 - There's a lot of this stuff out there supported by good evidence (and some less so), but unfortunately most of the best is buried deep in the scientific literature, where it's not super accessible for people busy in day to day life or learning other things.
 
-
 > **Success doesn't come from being smart, it comes from being passionate and persistent. - Dr. Terrence Sejnowski**
+> **Finally, this is advice I've only taken recently, really pay attention to your mental health. It is really easy to get caught up in the pursuit of knowledge and lose sight of everything else. You can kind of dehumanize everyone else because of views or thoughts that you consider foolish. Before you know it you have isolated yourself from everyone, lost any trace of empathy, and are struggling to maintain normal human relationships now. That last part might be a little too personal to my situation haha, but you get the idea. - Someone on Reddit**
 
-
-> **Finally, this is advice I've only taken recently, really pay attention to your mental health. It is really easy to get caught up in the pursuit of knowledge and lose sight of everything else. You can kind of dehumanize everyone else because of views or thoughts that you consider foolish. Before you know it you have isolated yourself from everyone, lost any trace of empathy, and are struggling to maintain normal human relationships now. That last part might be a little too personal to my situation haha, but you get the idea. - Reddit**
-
-- It is inevitable that you will forget the finer details of a large percent of what you learn, but by discovering how you learn best and teaching yourself the proper techniques you can dramatically lower that percentage and increase your retention as well as the amount of time it takes you to relearn a piece of information.
+> **It is inevitable that you will forget the finer details of a large percent of what you learn, but by discovering how you learn best and teaching yourself the proper techniques you can dramatically lower that percentage and increase your retention as well as the amount of time it takes you to relearn a piece of information. - Someone on Reddit**
 
 ## References
 - [The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY&index=4&list=WL)
