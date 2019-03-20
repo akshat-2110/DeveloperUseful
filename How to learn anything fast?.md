@@ -35,13 +35,13 @@ Default brain reactions: Anxiety, Frustration, Angry & what not.
 This is a very abstract process. There are other parameters which hamper with this learning is like unable to remember, distractions, focus, interest, etc. 
 
 ##### Helpers
-- Distractions: Do not place your mobile or distracting/addictive thing in front of study material. Use the Pomodoro technique. Try to focus on developing process rather focusing on the product.
-- Procrastination: When facing procrastination, think of process over product. I often procrastinate when I’m overwhelmed by the thought, "Ok, I have to get X done". Instead, it can be beneficial to think, "Ok, I will spend an hour on X" — which isn't overwhelming, doesn't require a long breakdown of tasks, and gets me started (90% of the battle).
-- Interest: There are time you know this is important but you are not interested in it &  for that I have learned from Dr Terrence Sejnowski is that "A good way to pay attention in a boring class is to ask a question - it clears your doubt, it creates a possibly more interesting discussion, it is a more active learning process. Rather passive listening"
+- Distractions: Do not place your mobile or distracting/addictive thing in front of study material. Use the Pomodoro technique. 
+- Procrastination: When facing procrastination, think of process over product. I often procrastinate when I'm overwhelmed by the thought, "Ok, I have to get THIS done". Instead, it can be beneficial to think, "Ok, I will spend an hour on THIS" — which isn't overwhelming, doesn't require a long breakdown of tasks, and gets me started (90% of the battle).
+- Interest: There are time you know this is important but you are not interested in it &  for that I have learned from Dr Terrence Sejnowski is that "A good way to pay attention in a boring class is to ask a question - it clears your doubt, it creates a possibly more interesting discussion, it is a more active learning process, rather passive listening"
 
 ## Memorizing better
 
-**Step 0(SPACED-REPETITION)**: Outcome of chunking is single abstract word or sentence. You need to write it somewhere and need to revise it over time. "Why over the time?" is because neural structure takes time to strengthen its connection. This stong connection makes long term memory as I said earlier.
+**Step 0(SPACED-REPETITION)**: Outcome of chunking is single abstract word/sentence or visual image. You need to write/store it somewhere and need to revise it over the time. "Why over the time?" is because neural structure takes time to strengthen its connection. This stong connection makes long term memory as I said earlier.
 
 **Step 1(INTERLEAVING)**: Once you have a basic understanding of what you are trying to learn, interleaving can be used to help you master the concepts. By practising jumping back and forth between problems that require different techniques, you can solidify your understanding of the concepts by learning how to choose to apply them in various situations. 
 
@@ -49,7 +49,7 @@ This is a very abstract process. There are other parameters which hamper with th
 
 ##### Helpers
 - For spaced-repetition, Flashcards might help(Consider using Anki). Although I use google keep with a reminder once a day and go through words of vocabulary. The visual image will also be much beneficial. 
-- Find out the root cause of the problem of why it arose in the first place. Which forms a complete story. As most of the story is divided into three part beginning, struggle & happy-ending. So finding a reason "why we need it?" makes your topic as a story & solution would be a happy ending, trying different things to find a solution to that topic is your struggle. And the story is easy to remember.
+- Find out the root cause of the problem of why it arose in the first place. Which forms a complete story. As most of the story is divided into three part beginning, struggle & happy-ending. So finding a reason "why we need it?" makes your topic as a story & solution would be a happy ending, trying different things to find a solution to that topic is your struggle. And everybody knows that story is easy to remember.
 - Also, try to connect ideas. Though seriously, connecting ideas not only helps you remember them easier (like using landmarks helps prevent getting lost) it also helps you use the ideas more efficiently! You can connect the ideas and have them work together during the problem-solving process.
 - Always ask questions like how & why? this will lead you to story or purpose things you are doing right now & help you create long term memory. This is my favourite.
 - Handwriting helps you deeply convert what you are trying to learn into neural memory structures. Although this is I have learned but not a fan of.
