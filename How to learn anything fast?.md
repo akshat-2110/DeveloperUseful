@@ -88,3 +88,4 @@ This is a very abstract process. There are other parameters which hamper with th
 - Many QnA on Reddit.
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn).
 
+And many more forget to list here:
