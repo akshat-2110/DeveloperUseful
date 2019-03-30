@@ -98,6 +98,10 @@ Note: Make sure that you selected syntax type, before commenting
 - [Tabularize](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Sublime%20Text%20Plugin%20:%20Tabularize.md).
 - [Serial Number](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Sublime%20Text%20Plugin%20:%20Serial%20Number.md).
 
+### Packages
+
+- All Autocomplete
+
 ### Theme
 - Soda
 
