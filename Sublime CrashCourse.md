@@ -101,7 +101,7 @@ Note: Make sure that you selected syntax type, before commenting
 ### Packages
 
 - All Autocomplete
-
+- [C++ auto completion:Turn on popup/autocomplete feature in Sublime Text 3](https://www.youtube.com/watch?v=dUPZ9fqd7K4)
 ### Theme
 - Soda
 
