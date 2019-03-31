@@ -112,10 +112,16 @@ Note: Make sure that you selected syntax type, before commenting
 ```
 {
 	"bold_folder_labels": true,
+	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
 	"fade_fold_buttons": false,
 	"font_size": 12,
 	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
 	"show_full_path": true,
+	"trim_trailing_white_space_on_save":true
 }
 ```
 > **Exclude folder/files in project browser**
