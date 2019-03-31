@@ -152,6 +152,7 @@ Note: Make sure that you selected syntax type, before commenting
 	{ "keys": ["ctrl+shift+7"], "command": "toggle_comment", "args": { "block": true } },
 
 	{"keys": ["ctrl+shift+t"], "command": "tabularize"},
+	{"keys": ["ctrl+v"], "command": "paste_and_indent"},
 	{"keys": ["ctrl+shift+s"], "command": "serialnumber"}
 ]
 ```
