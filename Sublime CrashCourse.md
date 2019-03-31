@@ -155,7 +155,8 @@ Note: Make sure that you selected syntax type, before commenting
 	{"keys": ["ctrl+shift+s"], "command": "serialnumber"}
 ]
 ```
-
+> **How to disable package?**
+- `Ctrl + Shift + p`, type `disable`
 
 > **To see sublime command or CLI**
 - `Ctrl + ~` & enter `sublime.log_commands(True)`
