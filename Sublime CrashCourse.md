@@ -93,13 +93,11 @@ Note: Make sure that you selected syntax type, before commenting
 > **Jump to line**
 - `Ctrl + g` & type line no.
 
-### Plugin
+### Plugin/Packages
 - C++Snippet : [Shortcut Helpers](https://github.com/Rapptz/cpp-sublime-snippet/blob/master/reference.md).
 - [Tabularize](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Sublime%20Text%20Plugin%20:%20Tabularize.md).
 - [Serial Number](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Sublime%20Text%20Plugin%20:%20Serial%20Number.md).
-
-### Packages
-
+- [Sublimerge 3](https://www.sublimerge.com/sm3/)
 - All Autocomplete
 - [C++ auto completion:Turn on popup/autocomplete feature in Sublime Text 3](https://www.youtube.com/watch?v=dUPZ9fqd7K4)
 ### Theme
