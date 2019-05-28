@@ -100,6 +100,7 @@ Note: Make sure that you selected syntax type, before commenting
 - [Sublimerge 3](https://www.sublimerge.com/sm3/)
 - All Autocomplete
 - [C++ auto completion:Turn on popup/autocomplete feature in Sublime Text 3](https://www.youtube.com/watch?v=dUPZ9fqd7K4)
+- [SublimeAStyleFormatter](https://github.com/timonwong/SublimeAStyleFormatter)
 ### Theme
 - Dracula
 
