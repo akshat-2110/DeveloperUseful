@@ -179,17 +179,10 @@ Note: Make sure that you selected syntax type, before commenting
 4. Copy this code into the file.
 ```
 {
-	"shell_cmd": "g++ \"${file}\" -o \"${file_path}\\\\${file_base_name}\"", "file_regex": "^(..[^:]):([0-9]+):?([0-9]+)?:? (.)$",
-	"working_dir": "${file_path}",
-	"selector": "source.c, source.c++",
-
-	"variants":
-	[
-		{
-			"name": "Run",
-			"shell_cmd": "g++ -O2 -std=c++11 \"${file}\" -o \"${file_path}\\\\${file_base_name}\" && \"${file_path}\\\\${file_base_name}\" > input.txt 2>&1"
-		}
-	]
+	"cmd": ["g++.exe","-std=c++17", "${file}", "-o", "${file_base_name}.exe", "&&" , "${file_base_name}.exe<inputf.in>outputf.in"],
+	"shell":true,
+	"working_dir":"$file_path",
+	"selector":"source.cpp"
 }
 ```
 5. Save it. Rename the file as “MyC++Build” or anything you want and save it.
