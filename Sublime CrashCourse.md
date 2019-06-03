@@ -189,8 +189,8 @@ Note: Make sure that you selected syntax type, before commenting
 
 6. Go into Tools > Build System and then Select your Build “MyC++Build”.
 
-7. Later open any folder using Ctrl+O where you usually store your programs. In that folder create a file name “input.txt”.
+7. Later open any folder using Ctrl+O where you usually store your programs. In that folder create a file name “inputf.in” & “outputf.in”.
 
 8. Now start coding. Write a program and then save it in that folder only. The benefit of doing is that whenever you have to give inputs just open the created input.txt enter your input data and save it. Later perform Ctrl+B for compiling and Ctrl+Shift+B for Run.
 
-9. For better usage just open your Sublime with 2 column view.
+9. For better usage just open your Sublime group view, View > Groups > Max column: 2.
