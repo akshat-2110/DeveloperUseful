@@ -196,3 +196,5 @@ Note: Make sure that you selected syntax type, before commenting
 8. Now start coding. Write a program and then save it in that folder only. The benefit of doing is that whenever you have to give inputs just open the created input.txt enter your input data and save it. Later perform Ctrl+B for compiling and Ctrl+Shift+B for Run.
 
 9. For better usage just open your Sublime group view, View > Groups > Max column: 2.
+
+[Setting up a C++ competitive programming environment for Sublime Text on Windows](https://blog.codingblocks.com/2019/setting-up-a-c-competitive-programming-environment/)
