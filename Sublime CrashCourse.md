@@ -94,7 +94,7 @@ Note: Make sure that you selected syntax type, before commenting
 - `Ctrl + g` & type line no.
 
 ### Plugin/Packages
-- C++Snippet : [Shortcut Helpers](https://github.com/Rapptz/cpp-sublime-snippet/blob/master/reference.md).
+- C++Snippet : [Shortcut Helpers](https://github.com/Rapptz/cpp-sublime-snippet).
 - [Tabularize](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Sublime%20Text%20Plugin%20:%20Tabularize.md).
 - [Serial Number](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Sublime%20Text%20Plugin%20:%20Serial%20Number.md).
 - [Sublimerge 3](https://www.sublimerge.com/sm3/)
