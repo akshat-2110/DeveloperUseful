@@ -102,6 +102,7 @@ Note: Make sure that you selected syntax type, before commenting
 - [C++ auto completion:Turn on popup/autocomplete feature in Sublime Text 3](https://www.youtube.com/watch?v=dUPZ9fqd7K4)
 - [SublimeAStyleFormatter](https://github.com/timonwong/SublimeAStyleFormatter)
 - EasyClangComplete
+- [BracketHighlighter](https://facelessuser.github.io/BracketHighlighter/)
 
 ### Theme
 - Dracula
