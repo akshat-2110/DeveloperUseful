@@ -15,3 +15,4 @@
 12. [Sublime Text Plugin : Serial Number](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Sublime%20Text%20Plugin%20:%20Serial%20Number.md)
 13. [GitHub Cheat Sheet](https://github.com/VisheshPatel/DeveloperUseful/blob/master/GitHub%20Cheat%20Sheet.md)
 14. [How to acquire skill by learning anything fast & effectively?](https://github.com/VisheshPatel/DeveloperUseful/blob/master/How%20to%20acquire%20skill%20by%20learning%20anything%20fast%20%26%20effectively%3F.md)
+15. [Visual Studio Crash Course](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Visual%20Studio%20Crash%20Course.md)
