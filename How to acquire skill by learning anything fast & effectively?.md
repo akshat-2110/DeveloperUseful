@@ -83,6 +83,9 @@ This is a very abstract process. There are other parameters which hamper with th
 
 > **It is inevitable that you will forget the finer details of a large per cent of what you learn, but by discovering how you learn best and teaching yourself the proper techniques you can dramatically lower that percentage and increase your retention as well as the amount of time it takes you to relearn a piece of information. - Someone on Reddit**
 
+## Unaligned Edits
+- After completion of reading forward, you should learn backward(in reverse order of topics) after sometime or taking break in days.
+
 ## References
 - [The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY&index=4&list=WL)
 - Many QnA on Reddit.
