@@ -1,31 +1,44 @@
-
 ### Edit Faster
 
 > **Select all instances of a pattern**
-- ``
+- `Alt + F3`
 
 > **Write at multiple location simultaneously**
-- 
+- Put curson on word.
+- Press Ctrl + d as many time as many instance you want to edit or insert.
+- Write the whatever you like at multiple location simultaneously.
 
 > **Edit multiple line simultaneously**
-- 
+- Press Ctrl + Alt + <UP/DOWN ARROW> to select line.
+- Write the whatever you like at multiple location simultaneously.
 
 > **Edit multiple line at the end simultaneously**
-- 
+- Select the all lines you want to edit by `Shift + <UP/DOWN ARROW>` or mouse.
+- Press `Ctrl + Shift + L` & got to end of line by `End` key.
+- Write the whatever you like at multiple location simultaneously.
 
 > **Move line up/down**
+- `Ctrl + Shift + <UP/DOWN ARROW>`
 
 > **Copy Paste Line**
+- `Ctrl + Shift + d`
 
 > **Delete Line**
+- `Ctrl + Shift + k`
 
 > **Move Curson To Left/Right Of Word**
+- `Ctrl + <Left/Right Arrow>`
 
 > **Comment code faster**
+- `Ctrl + /` - Single line comment
+- `Ctrl + Shift + /` - Multi line comment
+Note: Make sure that you selected syntax type, before commenting 
 
 > **Delete whole line**
+- `Shift + Delete`
 
 > **Sort Lines Alphabetically**
+- `F9`
 
 ### Traversing the Code
 
