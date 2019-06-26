@@ -59,6 +59,8 @@
 > **Jump to line**
 
 ### Plugin/Packages
+- Microsoft C/C++ Extension
+- 
 
 ### Theme
 
@@ -118,7 +120,7 @@
     ]
 }
 ```
-- `c_cpp_properties.json`
+- `c_cpp_properties.json` (INTELLISENSE)
 ```json
 {
     "configurations": [
