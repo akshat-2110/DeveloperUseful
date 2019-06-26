@@ -97,6 +97,11 @@ Note: Make sure that you selected syntax type, before commenting
 
 ### Misc
 
+> **Change default shell in windows / switch from powershell.exe to cmd.exe**
+1. Press Ctrl+Shift+P to show all commands.
+2. Type shell in the displayed text box to filter the list.
+3. Select Terminal: Select Default Shell.
+
 > **User Settings**
 ```
 {
