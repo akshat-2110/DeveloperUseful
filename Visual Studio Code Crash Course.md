@@ -93,8 +93,8 @@
 > **C++ single file build setting**
 - Prerequisites:
  1. `MinGW` installation in directory `C:/MinGW`
-- tasks.json (COMPILING)
-```
+- `tasks.json` (COMPILING)
+```json
 {
     "version": "2.0.0",
     "tasks": [
@@ -118,8 +118,8 @@
     ]
 }
 ```
-- c_cpp_properties.json
-```
+- `c_cpp_properties.json`
+```json
 {
     "configurations": [
         {
@@ -144,7 +144,7 @@
     "version": 4
 }
 ```
-- launch.jason (DEBUGGING) 
+- `launch.jason` (DEBUGGING) 
 ```json
 {
     // Use IntelliSense to learn about possible attributes.
