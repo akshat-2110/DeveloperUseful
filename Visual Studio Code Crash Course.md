@@ -29,6 +29,12 @@
 
 ### Traversing the Code
 
+> **See directory & file hierarchy in file explorer**
+- `ctrl+shift+e`
+
+> **Hide file explorer**
+- `ctrl+b`
+
 > **Traversing all funtion in file**
 
 
