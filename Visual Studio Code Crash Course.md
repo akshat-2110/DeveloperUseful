@@ -86,8 +86,9 @@ Note: Make sure that you selected syntax type, before commenting
 - `Ctrl+g` & enter the line no
 
 ### Plugin/Packages
-- Microsoft C/C++ Extension
-- 
+- [Microsoft C/C++ Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
+- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+- [VS Sequential Number](https://marketplace.visualstudio.com/items?itemName=neptunedesign.vs-sequential-number)
 
 ### Theme
 - [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
@@ -275,7 +276,7 @@ Note: Make sure that you selected syntax type, before commenting
     {
         "key": "f5",
         "command": "workbench.action.reloadWindow",
-        "when": "isDevelopment"
+        "when": "editorFocus"
     },
     {
         "key": "ctrl+r",
@@ -309,6 +310,10 @@ Note: Make sure that you selected syntax type, before commenting
     {
         "key": "shift+3",
         "command": "workbench.action.editorLayoutThreeRows"
+    },
+    {
+        "command": "vs-sequential-number.generate",
+        "key": "ctrl+shift+s"
     }
 ]
 ```
