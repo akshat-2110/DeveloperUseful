@@ -328,7 +328,7 @@ Note: Make sure that you selected syntax type, before commenting
 > **C++ single file build setting**
 - Prerequisites:
  1. `MinGW` installation in directory `C:/MinGW`
-- `tasks.json` (COMPILING)
+- `tasks.json` (COMPILING) : make sure you are running this script on cmd.exe not powershell.exe
 ```json
 {
     "version": "2.0.0",
@@ -341,14 +341,20 @@ Note: Make sure that you selected syntax type, before commenting
                 "-g",
                 "${file}",
                 "-o",
-                "${fileDirname}\\${fileBasenameNoExtension}.exe"
+                "${fileDirname}\\${fileBasenameNoExtension}.exe",
+                "&&",
+                "${fileDirname}\\${fileBasenameNoExtension}.exe<${fileDirname}\\inputf.in>${fileDirname}\\outputf.in"
             ],
             "options": {
                 "cwd": "C:\\MinGW\\bin"
             },
             "problemMatcher": [
                 "$gcc"
-            ]
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
         }
     ]
 }
