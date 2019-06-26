@@ -20,25 +20,22 @@
 > **Move line up/down**
 - `Ctrl + Shift + <UP/DOWN ARROW>`
 
-> **Copy Paste Line**
-- `Ctrl + Shift + d`
+> **Copy Paste Line UP/DOWN**
+- `Shift + Alt + <UP/DOWN ARROW>`
 
 > **Delete Line**
-- `Ctrl + Shift + k`
+- `Ctrl + Shift + k` or - `Shift + Delete`
 
 > **Move Curson To Left/Right Of Word**
 - `Ctrl + <Left/Right Arrow>`
 
 > **Comment code faster**
 - `Ctrl + /` - Single line comment
-- `Ctrl + Shift + /` - Multi line comment
+- `Shift + Alt + A` - Multi-line/block comment
 Note: Make sure that you selected syntax type, before commenting 
 
-> **Delete whole line**
-- `Shift + Delete`
-
 > **Sort Lines Alphabetically**
-- `F9`
+- TODO
 
 ### Traversing the Code
 
@@ -49,28 +46,31 @@ Note: Make sure that you selected syntax type, before commenting
 - `ctrl+b`
 
 > **Traversing all funtion in file**
+- `ctrl+r`
 
-
-> **Jump To Matching Bracket Addition**
-- 
 > **Goto end/beginning of file**
+- `ctrl+home` & - `ctrl+end`
 
 > **Goto definition & back**
+- `ctrl+<RIGHT ARROW>` & `ctrl+<LEFT ARROW>`
 
 > **Opening file in project with name**
 - `ctrl+p` & type file name with fuzzy search.
 
 > **Switching between opened files**
+- `ctrl+page down` & - `ctrl+page up`
 
 > **Closing file**
+- `ctrl+w`
 
 > **Going to particular function,line or variable of file**
+- `ctrl+r` & type function object variable name
 
 > **Traverse all instance of symbol in file**
-
-> **Toggle Project Browser**
+- `ctrl+f` typename & keep pressing enter key
 
 > **Opening multiple layout**
+
 
 > **Switching/Toggle between layouts**
 
@@ -222,3 +222,12 @@ Note: Make sure that you selected syntax type, before commenting
     ]
 }
 ```
+
+## Benefits over sublime
+- Can open image as well
+- Debugging is more intuitive
+
+
+## Drawbacks over sublime
+- bit slower
+- need map drive for network file to use feature of goto declaration
