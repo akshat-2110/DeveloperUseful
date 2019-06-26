@@ -86,7 +86,16 @@
     "editor.formatOnSave": true,
     "files.exclude": {
         "**/*.o": true
-    }
+    },
+    "workbench.colorTheme": "Dracula Soft",
+    "files.trimTrailingWhitespace": true,
+    "search.quickOpen.includeSymbols": true,
+    "search.exclude": {
+        "**/*.axf": true,
+        "**/*.bin": true,
+        "**/*.elf": true
+    },
+    "search.maintainFileSearchCache": true
 }
 ```
 
