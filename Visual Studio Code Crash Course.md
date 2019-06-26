@@ -70,7 +70,7 @@
 - 
 
 ### Theme
-
+- [https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
 ### Misc
 
 > **User Settings**
