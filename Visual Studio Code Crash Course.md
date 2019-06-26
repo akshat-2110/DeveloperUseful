@@ -66,7 +66,19 @@
 
 ### Misc
 
-> **Custome Settings**
+> **User Settings**
+```
+{
+    "C_Cpp.updateChannel": "Insiders",
+    "files.autoSave": "onFocusChange",
+    "editor.fontFamily": "Consolas",
+    "editor.wordWrap": "on",
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "editor.wordWrapColumn": 79,
+    "editor.formatOnSave": true
+}
+```
 
 > **Key Binding**
 - `Ctrl + Shift + p`, type & open `Key Bindings`. Add following lines.
