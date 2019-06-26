@@ -44,7 +44,8 @@
 
 > **Goto definition & back**
 
-> **Opening New File**
+> **Opening file in project with name**
+- `ctrl+p` & type file name with fuzzy search.
 
 > **Switching between opened files**
 
@@ -82,7 +83,10 @@
     "editor.formatOnPaste": true,
     "editor.formatOnType": true,
     "editor.wordWrapColumn": 79,
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "files.exclude": {
+        "**/*.o": true
+    }
 }
 ```
 
