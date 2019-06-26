@@ -147,195 +147,21 @@ Note: Make sure that you selected syntax type, before commenting
 - Pastels on Dark
 
 > **keybindings.json**
-- `Ctrl + Shift + p`, type & open `Open Keyboard Shortcuts(JSON)`. Add following lines.
+- `Ctrl + Shift + p`, type & open `Key Binding`. Add following lines.
 ```
-// Place your key bindings in this file to override the defaultsauto[]
 [
-    {
-        "key": "ctrl+up",
-        "command": "-scrollLineUp",
-        "when": "textInputFocus"
-    },
-    {
-        "key": "ctrl+up",
-        "command": "-search.action.focusSearchFromResults",
-        "when": "firstMatchFocus && searchViewletVisible"
-    },
-    {
-        "key": "ctrl+up",
-        "command": "-selectPrevSuggestion",
-        "when": "suggestWidgetMultipleSuggestions && suggestWidgetVisible && textInputFocus"
-    },
-    {
-        "key": "ctrl+up",
-        "command": "-search.focus.previousInputBox",
-        "when": "inputBoxFocus && searchViewletVisible && !searchInputBoxFocus"
-    },
-    {
-        "key": "ctrl+up",
-        "command": "editor.action.insertCursorAbove",
-        "when": "editorTextFocus"
-    },
-    {
-        "key": "ctrl+alt+up",
-        "command": "-editor.action.insertCursorAbove",
-        "when": "editorTextFocus"
-    },
-    {
-        "key": "ctrl+down",
-        "command": "editor.action.insertCursorBelow",
-        "when": "editorTextFocus"
-    },
-    {
-        "key": "ctrl+alt+down",
-        "command": "-editor.action.insertCursorBelow",
-        "when": "editorTextFocus"
-    },
-    {
-        "key": "alt+f3",
-        "command": "-editor.action.dirtydiff.next",
-        "when": "editorTextFocus"
-    },
-    {
-        "key": "alt+f3",
-        "command": "editor.action.selectHighlights",
-        "when": "editorFocus"
-    },
-    {
-        "key": "ctrl+shift+l",
-        "command": "-editor.action.selectHighlights",
-        "when": "editorFocus"
-    },
-    {
-        "key": "ctrl+shift+down",
-        "command": "-cursorDownSelect",
-        "when": "textInputFocus"
-    },
-    {
-        "key": "ctrl+shift+up",
-        "command": "-cursorUpSelect",
-        "when": "textInputFocus"
-    },
-    {
-        "key": "ctrl+shift+down",
-        "command": "editor.action.moveLinesDownAction",
-        "when": "editorTextFocus && !editorReadonly"
-    },
-    {
-        "key": "alt+down",
-        "command": "-editor.action.moveLinesDownAction",
-        "when": "editorTextFocus && !editorReadonly"
-    },
-    {
-        "key": "ctrl+shift+up",
-        "command": "editor.action.moveLinesUpAction",
-        "when": "editorTextFocus && !editorReadonly"
-    },
-    {
-        "key": "alt+up",
-        "command": "-editor.action.moveLinesUpAction",
-        "when": "editorTextFocus && !editorReadonly"
-    },
-    {
-        "key": "ctrl+right",
-        "command": "-breadcrumbs.focusNext",
-        "when": "breadcrumbsActive && breadcrumbsVisible"
-    },
-    {
-        "key": "ctrl+right",
-        "command": "-cursorWordEndRight",
-        "when": "textInputFocus"
-    },
-    {
-        "key": "ctrl+right",
-        "command": "editor.action.revealDefinition",
-        "when": "editorHasDefinitionProvider && editorTextFocus && !isInEmbeddedEditor"
-    },
-    {
-        "key": "f12",
-        "command": "-editor.action.revealDefinition",
-        "when": "editorHasDefinitionProvider && editorTextFocus && !isInEmbeddedEditor"
-    },
-    {
-        "key": "ctrl+left",
-        "command": "-breadcrumbs.focusPrevious",
-        "when": "breadcrumbsActive && breadcrumbsVisible"
-    },
-    {
-        "key": "ctrl+left",
-        "command": "-cursorWordStartLeft",
-        "when": "textInputFocus"
-    },
-    {
-        "key": "ctrl+left",
-        "command": "-list.collapseAll",
-        "when": "listFocus && !inputFocus"
-    },
-    {
-        "key": "ctrl+left",
-        "command": "workbench.action.navigateBack"
-    },
-    {
-        "key": "alt+left",
-        "command": "-workbench.action.navigateBack"
-    },
-    {
-        "key": "ctrl+r",
-        "command": "-workbench.action.openRecent"
-    },
-    {
-        "key": "ctrl+r",
-        "command": "-workbench.action.quickOpenNavigateNextInRecentFilesPicker",
-        "when": "inQuickOpen && inRecentFilesPicker"
-    },
-    {
-        "key": "f5",
-        "command": "-workbench.action.debug.continue",
-        "when": "inDebugMode"
-    },
-    {
-        "key": "f5",
-        "command": "-workbench.action.debug.start",
-        "when": "!inDebugMode"
-    },
-    {
-        "key": "f5",
-        "command": "workbench.action.reloadWindow",
-        "when": "isDevelopment"
-    },
-    {
-        "key": "ctrl+r",
-        "command": "-workbench.action.reloadWindow",
-        "when": "isDevelopment"
-    },
-    {
-        "key": "ctrl+r",
-        "command": "workbench.action.gotoSymbol"
-    },
-    {
-        "key": "ctrl+shift+o",
-        "command": "-workbench.action.gotoSymbol"
-    },
-    {
-        "key": "shift+alt+2",
-        "command": "workbench.action.editorLayoutTwoColumns"
-    },
-    {
-        "key": "shift+alt+1",
-        "command": "workbench.action.editorLayoutSingle"
-    },
-    {
-        "key": "shift+alt+3",
-        "command": "workbench.action.editorLayoutThreeColumns"
-    },
-    {
-        "key": "shift+2",
-        "command": "workbench.action.editorLayoutTwoRows"
-    },
-    {
-        "key": "shift+3",
-        "command": "workbench.action.editorLayoutThreeRows"
-    }
+	{ "keys": ["f10"], "command": "reindent", "args": {"single_line": false} },			//F10 for reindentation
+	{ "keys": ["ctrl+up"], "command": "select_lines", "args": {"forward": false} },		//Multiple curson up
+	{ "keys": ["ctrl+down"], "command": "select_lines", "args": {"forward": true} },	//Multiple curson down
+	{ "keys": ["ctrl+left"], "command": "jump_back"},										//Jump back
+	{ "keys": ["ctrl+right"], "command": "goto_definition"},								//Jump to function definition	
+	{ "keys": ["f5"], "command": "refresh_folder_list"},
+	{ "keys": ["ctrl+7"], "command": "toggle_comment", "args": { "block": false } },
+	{ "keys": ["ctrl+shift+7"], "command": "toggle_comment", "args": { "block": true } },
+
+	{"keys": ["ctrl+shift+t"], "command": "tabularize"},
+	{"keys": ["ctrl+v"], "command": "paste_and_indent"},
+	{"keys": ["ctrl+shift+s"], "command": "serialnumber"}
 ]
 ```
 > **How to disable package?**
