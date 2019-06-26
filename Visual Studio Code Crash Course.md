@@ -92,6 +92,8 @@ Note: Make sure that you selected syntax type, before commenting
 
 ### Theme
 - [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+
 ### Misc
 
 > **User Settings**
