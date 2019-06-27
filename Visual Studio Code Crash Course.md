@@ -317,11 +317,11 @@ Note: Make sure that you selected syntax type, before commenting
         "command": "workbench.action.editorLayoutThreeColumns"
     },
     {
-        "key": "shift+2",
+        "key": "ctrl+shift+2",
         "command": "workbench.action.editorLayoutTwoRows"
     },
     {
-        "key": "shift+3",
+        "key": "ctrl+shift+3",
         "command": "workbench.action.editorLayoutThreeRows"
     },
     {
