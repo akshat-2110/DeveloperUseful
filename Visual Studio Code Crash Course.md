@@ -4,9 +4,14 @@
 - `Alt + F3`
 
 > **Write at multiple location simultaneously**
-- Put curson on word.
+- Put cursor on word.
 - Press Ctrl + d as many time as many instance you want to edit or insert.
 - Write the whatever you like at multiple location simultaneously.
+
+**or**
+
+- `Selecion` -> `Switch to Alt+Click for Multi-Cursor`
+- `Ctrl+<left click>` & edit
 
 > **Edit multiple line simultaneously**
 - Press Ctrl + Alt + <UP/DOWN ARROW> to select line.
