@@ -297,10 +297,6 @@ Note: Make sure that you selected syntax type, before commenting
         "when": "isDevelopment"
     },
     {
-        "key": "ctrl+r",
-        "command": "workbench.action.gotoSymbol"
-    },
-    {
         "key": "ctrl+shift+o",
         "command": "-workbench.action.gotoSymbol"
     },
@@ -341,6 +337,26 @@ Note: Make sure that you selected syntax type, before commenting
         "key": "shift+alt+down",
         "command": "-editor.action.copyLinesDownAction",
         "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+r",
+        "command": "C_Cpp.Navigate",
+        "when": "editorTextFocus && editorLangId == 'cpp'"
+    },
+    {
+        "key": "alt+n",
+        "command": "-C_Cpp.Navigate",
+        "when": "editorTextFocus && editorLangId == 'cpp'"
+    },
+    {
+        "key": "ctrl+r",
+        "command": "C_Cpp.Navigate",
+        "when": "editorTextFocus && editorLangId == 'c'"
+    },
+    {
+        "key": "alt+n",
+        "command": "-C_Cpp.Navigate",
+        "when": "editorTextFocus && editorLangId == 'c'"
     }
 ]
 ```
