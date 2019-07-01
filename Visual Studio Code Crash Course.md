@@ -357,6 +357,16 @@ Note: Make sure that you selected syntax type, before commenting
         "key": "alt+n",
         "command": "-C_Cpp.Navigate",
         "when": "editorTextFocus && editorLangId == 'c'"
+    },
+    {
+        "key": "escape",
+        "command": "-workbench.action.hideInterfaceOverview",
+        "when": "interfaceOverviewVisible"
+    },
+    {
+        "key": "escape",
+        "command": "removeSecondaryCursors",
+        "when": "editorHasMultipleSelections && textInputFocus"
     }
 ]
 ```
