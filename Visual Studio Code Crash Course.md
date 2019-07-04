@@ -112,24 +112,29 @@ Note: Make sure that you selected syntax type, before commenting
 {
     "C_Cpp.updateChannel": "Insiders",
     "files.autoSave": "onFocusChange",
-    "editor.fontFamily": "Consolas",
+    "editor.fontFamily": "Lucida Console",
     "editor.wordWrap": "on",
-    "editor.formatOnPaste": true,
-    "editor.formatOnType": true,
-    "editor.wordWrapColumn": 79,
     "editor.formatOnSave": true,
     "files.exclude": {
         "**/*.o": true
     },
-    "workbench.colorTheme": "Dracula Soft",
+    "workbench.colorTheme": "Dracula",
     "files.trimTrailingWhitespace": true,
     "search.quickOpen.includeSymbols": true,
     "search.exclude": {
         "**/*.axf": true,
         "**/*.bin": true,
-        "**/*.elf": true
+        "**/*.elf": true,
+        "**/*.o": true
     },
-    "search.maintainFileSearchCache": true
+    "search.maintainFileSearchCache": true,
+    "editor.minimap.maxColumn": 80,
+    "codegnuglobal.executable": "C:\\msys64\\bin\\global.exe",
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "window.zoomLevel": 0,
+    "editor.detectIndentation": false
 }
 ```
 
