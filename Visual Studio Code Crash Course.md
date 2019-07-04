@@ -329,7 +329,7 @@ Note: Make sure that you selected syntax type, before commenting
         "command": "-workbench.view.debug"
     },
     {
-        "key": "ctrl+shift+d",
+        "key": "shift+alt+down",
         "command": "editor.action.copyLinesDownAction",
         "when": "editorTextFocus && !editorReadonly"
     },
@@ -367,6 +367,11 @@ Note: Make sure that you selected syntax type, before commenting
         "key": "escape",
         "command": "removeSecondaryCursors",
         "when": "editorHasMultipleSelections && textInputFocus"
+    },
+    {
+        "key": "shift+alt+left",
+        "command": "-editor.action.smartSelect.shrink",
+        "when": "editorTextFocus"
     }
 ]
 ```
