@@ -112,7 +112,7 @@ Note: Make sure that you selected syntax type, before commenting
 {
     "C_Cpp.updateChannel": "Insiders",
     "files.autoSave": "onFocusChange",
-    "editor.fontFamily": "Lucida Console",
+    "editor.fontFamily": "Consolas",
     "editor.wordWrap": "on",
     "editor.formatOnSave": true,
     "files.exclude": {
