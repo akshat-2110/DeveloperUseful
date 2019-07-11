@@ -81,10 +81,14 @@ This is a very abstract process. There are other parameters which hamper with th
 
 > **Finally, this is advice I've only taken recently, really pay attention to your mental health. It is really easy to get caught up in the pursuit of knowledge and lose sight of everything else. You can kind of dehumanize everyone else because of views or thoughts that you consider foolish. Before you know it you have isolated yourself from everyone, lost any trace of empathy, and are struggling to maintain normal human relationships now. That last part might be a little too personal to my situation, haha, but you get the idea. - Someone on Reddit**
 
+> **Knowledge without implementation is information, - Vishal Chovatiya**
+
 > **It is inevitable that you will forget the finer details of a large per cent of what you learn, but by discovering how you learn best and teaching yourself the proper techniques you can dramatically lower that percentage and increase your retention as well as the amount of time it takes you to relearn a piece of information. - Someone on Reddit**
 
-## Unaligned Edits
+## Unaligned Edits Over The Time
 - After completion of reading forward, you should learn backward(in reverse order of topics) after sometime or taking break in days.
+- Play YouTube videos in speed of 1.25.
+
 
 ## References
 - [The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY&index=4&list=WL)
