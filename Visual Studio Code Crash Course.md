@@ -116,7 +116,11 @@ Note: Make sure that you selected syntax type, before commenting
     "editor.wordWrap": "on",
     "editor.formatOnSave": true,
     "files.exclude": {
-        "**/*.o": true
+        "**/*.axf": true,
+        "**/*.bin": true,
+        "**/*.elf": true,
+        "**/*.o": true,
+        "**/.*": true,
     },
     "workbench.colorTheme": "Dracula",
     "files.trimTrailingWhitespace": true,
@@ -125,7 +129,9 @@ Note: Make sure that you selected syntax type, before commenting
         "**/*.axf": true,
         "**/*.bin": true,
         "**/*.elf": true,
-        "**/*.o": true
+        "**/*.o": true,
+        "**/.*": true,
+        "**/Debug": true
     },
     "search.maintainFileSearchCache": true,
     "editor.minimap.maxColumn": 80,
