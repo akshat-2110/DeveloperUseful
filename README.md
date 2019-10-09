@@ -16,3 +16,6 @@
 13. [GitHub Cheat Sheet](https://github.com/VisheshPatel/DeveloperUseful/blob/master/GitHub%20Cheat%20Sheet.md)
 14. [How to acquire skill by learning anything fast & effectively?](https://github.com/VisheshPatel/DeveloperUseful/blob/master/How%20to%20acquire%20skill%20by%20learning%20anything%20fast%20%26%20effectively%3F.md)
 15. [Visual Studio Code Crash Course](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Visual%20Studio%20Code%20Crash%20Course.md)
+16. [AHK: Auto Correct](https://github.com/VisheshPatel/DeveloperUseful/blob/master/AHK:%20Auto%20Correct.md)
+17. [AHK: Virtual Desktop Toggle](https://github.com/VisheshPatel/DeveloperUseful/blob/master/AHK:%20Virtual%20Desktop%20Toggle.md)
+18. [AHK: Google](https://github.com/VisheshPatel/DeveloperUseful/blob/master/AHK:%20Google.md)
