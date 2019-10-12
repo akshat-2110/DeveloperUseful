@@ -2,6 +2,8 @@
 #SingleInstance,Force
 
 
+
+
 ; Long press escape to close the window ------------------------------------------------------------------------------
 $Escape::                                               ; Long press (> 0.5 sec) on Esc closes window - but if you change your mind you can keep it pressed for 3 more seconds
     KeyWait, Escape, T0.5                               ; Wait no more than 0.5 sec for key release (also suppress auto-repeat)
@@ -24,7 +26,7 @@ $Escape::                                               ; Long press (> 0.5 sec)
 	}
 	
 	Send {Esc}
-Return
+return
 
 
 ; Virtual desktop switch on double right click mouse -------------------------------------------------------------------
@@ -47,17 +49,25 @@ Send reset@123
 return
 
 
-; Notepad shortcut ----------------------------------------------------------------------------------------------------
+; Calc shortcut ----------------------------------------------------------------------------------------------------
 Numpad0 & Numpad1::
+Run, C:\Windows\System32\calc.exe
+return
+
+; Notepad shortcut ----------------------------------------------------------------------------------------------------
+Numpad0 & Numpad2::
 Run, notepad.exe
 return
 
 ; vscode shortcut -----------------------------------------------------------------------------------------------------
-Numpad0 & Numpad2::
+Numpad0 & Numpad3::
 Run, C:\Users\vishal\AppData\Local\Programs\Microsoft VS Code\Code.exe
 return
 
-
+; ----------------------------------------------------------------------------------------------------
+Numpad0 & NumpadAdd::
+MsgBox Hot key not decided yet
+return
 
 
 
