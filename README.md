@@ -20,3 +20,4 @@
 17. [AHK: Virtual Desktop Toggle](https://github.com/VisheshPatel/DeveloperUseful/blob/master/AHK:%20Virtual%20Desktop%20Toggle.md)
 18. [AHK: Google](https://github.com/VisheshPatel/DeveloperUseful/blob/master/AHK:%20Google.md)
 19. [AHK: HotKeys](https://github.com/VisheshPatel/DeveloperUseful/blob/master/AHK:%20HotKeys.md)
+20. [AHK: HotStrings](https://github.com/VisheshPatel/DeveloperUseful/blob/master/AHK:%20HotStrings.md)
