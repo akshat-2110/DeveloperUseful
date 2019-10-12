@@ -1,7 +1,8 @@
 ```
 #SingleInstance,Force
 
-
+; New mail using Ctrl + m 
+Run, "%programfiles%\Microsoft Office\OFFICE11\OUTLOOK.EXE" /c ipm.note
 
 
 ; Long press escape to close the window ------------------------------------------------------------------------------
