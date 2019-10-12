@@ -1,4 +1,6 @@
 ## Windows
+> **Screen snapshot/snippet**
+- `Shift + Win + S` & `Ctrl + C` to copy
 
 > **Open Terminal On Particular Folder**
 - `Shift + Right Click` -> `Open command window here`.
