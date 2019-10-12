@@ -19,3 +19,4 @@
 16. [AHK: Auto Correct](https://github.com/VisheshPatel/DeveloperUseful/blob/master/AHK:%20Auto%20Correct.md)
 17. [AHK: Virtual Desktop Toggle](https://github.com/VisheshPatel/DeveloperUseful/blob/master/AHK:%20Virtual%20Desktop%20Toggle.md)
 18. [AHK: Google](https://github.com/VisheshPatel/DeveloperUseful/blob/master/AHK:%20Google.md)
+19. [AHK: HotKeys](https://github.com/VisheshPatel/DeveloperUseful/blob/master/AHK:%20HotKeys.md)
