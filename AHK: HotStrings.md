@@ -2,20 +2,33 @@
 #SingleInstance,Force
 
 
-::btw::by the way, 
-::BTW::by the way, 
+::btw::By the way, 
+
+::tf::thanks for
 
 ::bcoz::Because, 
-::BCOZ::Because, 
 
 ::aka::also known as 
-::AKA::also known as 
 
 ::u::you  
-::u::you 
 
 ::r::are  
-::r::are
+
+::br::BR,{Enter}Vishal Chovatiya
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ```
