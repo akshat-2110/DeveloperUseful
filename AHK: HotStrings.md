@@ -11,7 +11,11 @@
 ::aka::also known as 
 ::AKA::also known as 
 
+::u::you  
+::u::you 
 
+::r::are  
+::r::are
 
 
 ```
