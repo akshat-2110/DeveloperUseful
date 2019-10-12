@@ -1,3 +1,4 @@
+```
 #SingleInstance,Force
 
 RButton::
@@ -31,3 +32,4 @@ toggle_virtual_desktop()
 		}
 	}
 }
+```
