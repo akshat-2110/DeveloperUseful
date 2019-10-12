@@ -1,25 +1,29 @@
 ```
 #SingleInstance,Force
 
-; Virtual desktop swith on double right click mouse -------------------------------------------------------------------
+; Virtual desktop switch on double right click mouse -------------------------------------------------------------------
 RButton::
 timeout = 0.5
 Send {RButton}
 Keywait RButton 					; wait for release
 KeyWait RButton, D, T%timeout% 		; wait for pressed again
 toggle_virtual_desktop()
+return
 
-; Notepad shortcut
+; Renabling numpad 0 key------------------------------------------------------------------------------------------------ 
+Numpad0::
+Send {0}
+return
 
+; Notepad shortcut ----------------------------------------------------------------------------------------------------
+Numpad0 & Numpad1::
+Run, notepad.exe
+return
 
-
-
-
-
-
-
-
-
+; vscode shortcut -----------------------------------------------------------------------------------------------------
+Numpad0 & Numpad2::
+Run, C:\Users\vishal\AppData\Local\Programs\Microsoft VS Code\Code.exe
+return
 
 
 
@@ -67,6 +71,4 @@ toggle_virtual_desktop()
 		}
 	}
 }
-
-
 ```
