@@ -1,7 +1,16 @@
 ```
 #SingleInstance,Force
 
-; New mail using Ctrl + m 
+; Google Search highlighted text ------------------------------------------------------------------------------------
+^+c::
+{
+	Send, ^c
+	Sleep 50
+	Run, http://www.google.com/search?q=%clipboard%
+	Return
+}
+
+; New mail using Ctrl + m --------------------------------------------------------------------------------------------
 Run, "%programfiles%\Microsoft Office\OFFICE11\OUTLOOK.EXE" /c ipm.note
 
 
