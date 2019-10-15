@@ -4,7 +4,16 @@
 SetCapsLockState, alwaysoff    ; Turn of capslock key functionality, which is remapped to shift + capslock
 
 +CapsLock::			; shift + capslock
-toggle_capslock()
+{
+	if GetKeyState("CapsLock", "T") = 1
+	{
+		SetCapsLockState, Off
+	}
+	else if GetKeyState("CapsLock", "F") = 0
+	{
+		SetCapsLockState, On
+	}
+}
 return
 
 ; Google Search highlighted text ------------------------------------------------------------------------------------
@@ -14,11 +23,6 @@ return
 	Run, http://www.google.com/search?q=%clipboard%
 	Return
 }
-
-; New mail using Ctrl + m --------------------------------------------------------------------------------------------
-^m::
-Run, C:\Program Files (x86)\Microsoft Office\root\Office16\OUTLOOK.EXE /c ipm.note
-
 
 ; Long press escape to close the window ------------------------------------------------------------------------------
 $Escape::                                               ; Long press (> 0.5 sec) on Esc closes window - but if you change your mind you can keep it pressed for 3 more seconds
@@ -47,11 +51,32 @@ return
 
 ; Virtual desktop switch on double right click mouse -------------------------------------------------------------------
 RButton::
-timeout = 0.5
-Send {RButton}
-Keywait RButton 					; wait for release
-KeyWait RButton, D, T%timeout% 		; wait for pressed again
-toggle_virtual_desktop()
+{
+	timeout = 0.5
+	Send {RButton}
+	Keywait RButton 					; wait for release
+	KeyWait RButton, D, T%timeout% 		; wait for pressed again
+	If ErrorLevel = 1 					;If you don't click again within %timeout%
+	{
+		;MsgBox, timeout	
+	}
+	else
+	{
+		; Change the session id(..\SessionInfo\2[<<<<<<HERE]\VirtualDesktops\..) in below line if virtual desktop is not updating correctly
+		RegRead, cur, HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\SessionInfo\1\VirtualDesktops, CurrentVirtualDesktop
+		RegRead, all, HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VirtualDesktops, VirtualDesktopIDs
+		virtual_desktop := floor(InStr(all,cur) / strlen(cur))
+
+		If virtual_desktop > 0
+		{		
+			Send ^#{left}				; Presses Ctrl + Win + Left arrow key.
+		}
+		else
+		{		
+			Send ^#{right}				; Presses Ctrl + Win + Right.			
+		}
+	}
+}
 return
 
 ; Renabling numpad 0 key------------------------------------------------------------------------------------------------ 
@@ -80,6 +105,10 @@ Numpad0 & Numpad3::
 Run, C:\Users\chovatiy\AppData\Local\Programs\Microsoft VS Code\Code.exe
 return
 
+; New mail using Ctrl + m --------------------------------------------------------------------------------------------
+^m::
+Run, C:\Program Files (x86)\Microsoft Office\root\Office16\OUTLOOK.EXE /c ipm.note
+
 ; ----------------------------------------------------------------------------------------------------
 Numpad0 & NumpadAdd::
 MsgBox Hot key not decided yet
@@ -88,57 +117,4 @@ return
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-toggle_virtual_desktop()
-{
-
-	If ErrorLevel = 1 					;If you don't click again within %timeout%
-	{
-		;MsgBox, timeout	
-	}
-	else
-	{
-		; Change the session id(..\SessionInfo\2[<<<<<<HERE]\VirtualDesktops\..) in below line if virtual desktop is not updating correctly
-		RegRead, cur, HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\SessionInfo\1\VirtualDesktops, CurrentVirtualDesktop
-		RegRead, all, HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VirtualDesktops, VirtualDesktopIDs
-		virtual_desktop := floor(InStr(all,cur) / strlen(cur))
-
-		If virtual_desktop > 0
-		{		
-			Send ^#{left}				; Presses Ctrl + Win + Left arrow key.
-		}
-		else
-		{		
-			Send ^#{right}				; Presses Ctrl + Win + Right.			
-		}
-	}
-}
-
-toggle_capslock()
-{
-	if GetKeyState("CapsLock", "T") = 1
-	{
-		SetCapsLockState, Off
-	}
-	else if GetKeyState("CapsLock", "F") = 0
-	{
-		SetCapsLockState, On
-	}
-}
 ```
