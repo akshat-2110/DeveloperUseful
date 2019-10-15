@@ -11,7 +11,8 @@
 }
 
 ; New mail using Ctrl + m --------------------------------------------------------------------------------------------
-Run, "%programfiles%\Microsoft Office\OFFICE11\OUTLOOK.EXE" /c ipm.note
+^m::
+Run, C:\Program Files (x86)\Microsoft Office\root\Office16\OUTLOOK.EXE /c ipm.note
 
 
 ; Long press escape to close the window ------------------------------------------------------------------------------
