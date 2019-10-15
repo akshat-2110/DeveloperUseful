@@ -90,19 +90,42 @@ Send Aug@2019
 return
 
 
-; Calc shortcut ----------------------------------------------------------------------------------------------------
-Numpad0 & Numpad1::
+; Calc shortcuts ----------------------------------------------------------------------------------------------------
+CapsLock & Numpad1::			; swithc through active windows of same app
+{
+	if WinExist("Calculator")
+		WinActivate ; use the window found above
+	else
+		Run, C:\Windows\System32\calc.exe
+}
+return
+
+Numpad0 & Numpad1::				; Open fresh
 Run, C:\Windows\System32\calc.exe
 return
 
 ; Notepad shortcut ----------------------------------------------------------------------------------------------------
-Numpad0 & Numpad2::
+CapsLock & Numpad2::			; swithc through active windows of same app
+{
+	if WinExist("Notepad")
+		WinActivate ; use the window found above
+	else
+		Run, notepad.exe
+}
+return
+
+Numpad0 & Numpad2::			; Open fresh
 Run, notepad.exe
 return
 
 ; vscode shortcut -----------------------------------------------------------------------------------------------------
-Numpad0 & Numpad3::
-Run, C:\Users\chovatiy\AppData\Local\Programs\Microsoft VS Code\Code.exe
+CapsLock & Numpad3::
+{
+	IfWinExist ,, "Visual Studio Code"
+		WinActivate ; use the window found above
+	else
+		Run, C:\Users\chovatiy\AppData\Local\Programs\Microsoft VS Code\Code.exe
+}
 return
 
 ; New mail using Ctrl + m --------------------------------------------------------------------------------------------
