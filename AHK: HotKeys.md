@@ -1,11 +1,16 @@
 ```
 #SingleInstance,Force
 
+SetCapsLockState, alwaysoff    ; Turn of capslock key functionality, which is remapped to shift + capslock
+
++CapsLock::			; shift + capslock
+toggle_capslock()
+return
+
 ; Google Search highlighted text ------------------------------------------------------------------------------------
 ^+c::
 {
 	Send, ^c
-	Sleep 50
 	Run, http://www.google.com/search?q=%clipboard%
 	Return
 }
@@ -56,7 +61,7 @@ return
 
 ; Password entry   ----------------------------------------------------------------------------------------------------- 
 Numpad0 & NumpadDot::
-Send reset@123
+Send Aug@2019
 return
 
 
@@ -72,7 +77,7 @@ return
 
 ; vscode shortcut -----------------------------------------------------------------------------------------------------
 Numpad0 & Numpad3::
-Run, C:\Users\vishal\AppData\Local\Programs\Microsoft VS Code\Code.exe
+Run, C:\Users\chovatiy\AppData\Local\Programs\Microsoft VS Code\Code.exe
 return
 
 ; ----------------------------------------------------------------------------------------------------
@@ -110,7 +115,7 @@ toggle_virtual_desktop()
 	else
 	{
 		; Change the session id(..\SessionInfo\2[<<<<<<HERE]\VirtualDesktops\..) in below line if virtual desktop is not updating correctly
-		RegRead, cur, HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\SessionInfo\2\VirtualDesktops, CurrentVirtualDesktop
+		RegRead, cur, HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\SessionInfo\1\VirtualDesktops, CurrentVirtualDesktop
 		RegRead, all, HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VirtualDesktops, VirtualDesktopIDs
 		virtual_desktop := floor(InStr(all,cur) / strlen(cur))
 
@@ -125,4 +130,15 @@ toggle_virtual_desktop()
 	}
 }
 
+toggle_capslock()
+{
+	if GetKeyState("CapsLock", "T") = 1
+	{
+		SetCapsLockState, Off
+	}
+	else if GetKeyState("CapsLock", "F") = 0
+	{
+		SetCapsLockState, On
+	}
+}
 ```
