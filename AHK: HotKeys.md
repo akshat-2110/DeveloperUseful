@@ -131,6 +131,7 @@ return
 ; New mail using Ctrl + m --------------------------------------------------------------------------------------------
 ^m::
 Run, C:\Program Files (x86)\Microsoft Office\root\Office16\OUTLOOK.EXE /c ipm.note
+return
 
 ; ----------------------------------------------------------------------------------------------------
 Numpad0 & NumpadAdd::
