@@ -100,6 +100,8 @@ Note: Make sure that you selected syntax type, before commenting
 - [Material Icon Theme]()
 - [Select Line Status Bar](https://marketplace.visualstudio.com/items?itemName=tomoki1207.selectline-statusbar)
 - [Python]()
+- [Word/Line/Char/Paragraph/ReadingTime Counter](https://marketplace.visualstudio.com/items?itemName=kirozen.wordcounter)
+- []()
 
 ### Theme
 - [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
