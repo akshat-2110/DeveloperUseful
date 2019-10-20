@@ -14,14 +14,27 @@
 
 ::r::are  
 
+::y::why
+
 ::br::BR,{Enter}Vishal Chovatiya
+
+::Hey::Hi,{Enter}{Enter}{Enter}{Enter}BR,{Enter}Vishal Chovatiya
 
 ::pfa::Please find attached 
 
 
 
 
-::hey::Hi ,{Enter}{Enter}{Enter}BR,{Enter}Vishal Chovatiya
+
+
+
+
+
+
+
+
+
+
 
 
 
