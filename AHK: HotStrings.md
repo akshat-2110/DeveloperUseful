@@ -22,7 +22,7 @@
 
 ::pfa::Please find attached 
 
-::ttl::In middle of something, will talk to you later
+::ttl::In middle of something, will talk to you soon
 
 
 
