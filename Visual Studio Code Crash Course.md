@@ -101,6 +101,7 @@ Note: Make sure that you selected syntax type, before commenting
 - [Select Line Status Bar](https://marketplace.visualstudio.com/items?itemName=tomoki1207.selectline-statusbar)
 - [Python]()
 - [Word/Line/Char/Paragraph/ReadingTime Counter](https://marketplace.visualstudio.com/items?itemName=kirozen.wordcounter)
+- [hexdump for VSCode](https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-hexdump)
 - []()
 
 ### Theme
