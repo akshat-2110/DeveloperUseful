@@ -102,7 +102,7 @@ Note: Make sure that you selected syntax type, before commenting
 - [Python]()
 - [Word/Line/Char/Paragraph/ReadingTime Counter](https://marketplace.visualstudio.com/items?itemName=kirozen.wordcounter)
 - [hexdump for VSCode](https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-hexdump)
-- []()
+- [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
 
 ### Theme
 - [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
