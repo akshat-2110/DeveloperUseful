@@ -128,6 +128,24 @@ CapsLock & Numpad3::
 }
 return
 
+Numpad0 & Numpad3::			; Open fresh
+Run, C:\Users\chovatiy\AppData\Local\Programs\Microsoft VS Code\Code.exe
+return
+
+; Chrome shortcut -----------------------------------------------------------------------------------------------------
+CapsLock & Numpad4::
+{
+	IfWinExist ,, "Chrome"
+		WinActivate ; use the window found above
+	else
+		Run, C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+}
+return
+
+Numpad0 & Numpad4::			; Open fresh
+Run, C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+return
+
 ; New mail using Ctrl + m --------------------------------------------------------------------------------------------
 ^m::
 Run, C:\Program Files (x86)\Microsoft Office\root\Office16\OUTLOOK.EXE /c ipm.note
