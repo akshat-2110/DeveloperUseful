@@ -2,6 +2,9 @@
 - `lsof +D /path`
 - `kill -9 [PID]`
 
+> **zip command in linux**
+- `zip –r filename.zip directory_name`
+
 > **Install all development related tools(gcc,make,etc)**
 - `sudo apt-get update`
 - `sudo apt-get install build-essential`
