@@ -1,4 +1,3 @@
-```
 #SingleInstance,Force
 
 
@@ -6,21 +5,19 @@
 
 ::tf::thanks for
 
-::bcoz::Because, 
+::bcoz::because, 
 
 ::aka::also known as 
 
-::u::you  
-
-::r::are  
-
-::y::why
+::ur::you are
 
 ::br::BR,{Enter}Vishal Chovatiya
 
-::Hey::Hi,{Enter}{Enter}{Enter}{Enter}BR,{Enter}Vishal Chovatiya
-
 ::pfa::Please find attached 
+
+::afaik::as far as I know,  
+
+::heym::Hi ,{Enter}{Enter}{Enter}BR,{Enter}Vishal Chovatiya
 
 ::ttl::In middle of something, will talk to you soon
 
@@ -35,13 +32,3 @@
 
 
 
-
-
-
-
-
-
-
-
-
-```
