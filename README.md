@@ -8,7 +8,7 @@
 6. [MS Excel Shortcuts](https://github.com/VisheshPatel/DeveloperUseful/blob/master/MS%20Excel%20Shortcuts.md)
 7. [Sublime CrashCourse](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Sublime%20CrashCourse.md)
 8. [Windows, MS-Docs & PDF Viewer Shortcuts](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Windows%20Shortcut.md)
-9. [Linux Command Settings](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Linux%20Command%20Settings.sh)
+9. 
 10. [Browser Shortcuts](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Browser%20Shortcut.md)
 11. [Sublime Plugin Template](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Sublime%20Plugin%20Template.md)
 12. [Sublime Text Plugin : Tabularize](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Sublime%20Text%20Plugin%20:%20Tabularize.md)
