@@ -358,19 +358,9 @@ Note: Make sure that you selected syntax type, before commenting
         "when": "editorTextFocus && !editorReadonly"
     },
     {
-        "key": "ctrl+r",
-        "command": "C_Cpp.Navigate",
-        "when": "editorTextFocus && editorLangId == 'cpp'"
-    },
-    {
         "key": "alt+n",
         "command": "-C_Cpp.Navigate",
         "when": "editorTextFocus && editorLangId == 'cpp'"
-    },
-    {
-        "key": "ctrl+r",
-        "command": "C_Cpp.Navigate",
-        "when": "editorTextFocus && editorLangId == 'c'"
     },
     {
         "key": "alt+n",
@@ -401,6 +391,10 @@ Note: Make sure that you selected syntax type, before commenting
         "key": "ctrl+shift+l",
         "command": "editor.action.transformToLowercase",
         "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+r",
+        "command": "workbench.action.gotoSymbol"
     }
 ]
 ```
