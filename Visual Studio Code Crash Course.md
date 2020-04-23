@@ -349,7 +349,7 @@ Note: Make sure that you selected syntax type, before commenting
         "command": "-workbench.view.debug"
     },
     {
-        "key": "shift+alt+down",
+        "key": "ctrl+shift+d",
         "command": "editor.action.copyLinesDownAction",
         "when": "editorTextFocus && !editorReadonly"
     },
@@ -359,9 +359,19 @@ Note: Make sure that you selected syntax type, before commenting
         "when": "editorTextFocus && !editorReadonly"
     },
     {
+        "key": "ctrl+r",
+        "command": "C_Cpp.Navigate",
+        "when": "editorTextFocus && editorLangId == 'cpp'"
+    },
+    {
         "key": "alt+n",
         "command": "-C_Cpp.Navigate",
         "when": "editorTextFocus && editorLangId == 'cpp'"
+    },
+    {
+        "key": "ctrl+r",
+        "command": "C_Cpp.Navigate",
+        "when": "editorTextFocus && editorLangId == 'c'"
     },
     {
         "key": "alt+n",
@@ -384,18 +394,14 @@ Note: Make sure that you selected syntax type, before commenting
         "when": "editorTextFocus"
     },
     {
-        "key": "ctrl+shift+u",
-        "command": "editor.action.transformToUppercase",
+        "key": "ctrl+shift+d",
+        "command": "geeebe.duplicateText",
         "when": "editorTextFocus"
     },
     {
-        "key": "ctrl+shift+l",
-        "command": "editor.action.transformToLowercase",
+        "key": "ctrl+d",
+        "command": "-geeebe.duplicateText",
         "when": "editorTextFocus"
-    },
-    {
-        "key": "ctrl+r",
-        "command": "workbench.action.gotoSymbol"
     }
 ]
 ```
