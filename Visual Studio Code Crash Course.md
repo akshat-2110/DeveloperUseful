@@ -103,6 +103,7 @@ Note: Make sure that you selected syntax type, before commenting
 - [Word/Line/Char/Paragraph/ReadingTime Counter](https://marketplace.visualstudio.com/items?itemName=kirozen.wordcounter)
 - [hexdump for VSCode](https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-hexdump)
 - [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
+- [Duplicate selection or line Ctrl + Shift + D like sublime](https://marketplace.visualstudio.com/items?itemName=geeebe.duplicate)
 
 ### Theme
 - [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
