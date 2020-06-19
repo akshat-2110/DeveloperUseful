@@ -90,14 +90,14 @@ Note: Make sure that you selected syntax type, before commenting
 > **Jump to line**
 - `Ctrl+g` & enter the line no
 
-### Plugin/Packages/Extension
+### Plugin/Packages/Extension/Theme
 - [Microsoft C/C++ Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 - [VS Sequential Number](https://marketplace.visualstudio.com/items?itemName=neptunedesign.vs-sequential-number)
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
-- [C++ Intellisense]()
-- [Dracula Official theme]()
-- [Material Icon Theme]()
+- [C++ Intellisense](https://marketplace.visualstudio.com/items?itemName=austin.code-gnu-global)
+- [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - [Select Line Status Bar](https://marketplace.visualstudio.com/items?itemName=tomoki1207.selectline-statusbar)
 - [Python]()
 - [Word/Line/Char/Paragraph/ReadingTime Counter](https://marketplace.visualstudio.com/items?itemName=kirozen.wordcounter)
@@ -105,10 +105,6 @@ Note: Make sure that you selected syntax type, before commenting
 - [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
 - [Duplicate selection or line Ctrl + Shift + D like sublime](https://marketplace.visualstudio.com/items?itemName=geeebe.duplicate)
 - [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
-
-### Theme
-- [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
-- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
 ### Misc
 
