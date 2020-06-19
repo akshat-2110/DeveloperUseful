@@ -105,6 +105,7 @@ Note: Make sure that you selected syntax type, before commenting
 - [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
 - [Duplicate selection or line Ctrl + Shift + D like sublime](https://marketplace.visualstudio.com/items?itemName=geeebe.duplicate)
 - [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+- [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 
 ### Misc
 
