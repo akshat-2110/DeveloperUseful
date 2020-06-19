@@ -105,7 +105,7 @@ Note: Make sure that you selected syntax type, before commenting
 - [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
 - [Duplicate selection or line Ctrl + Shift + D like sublime](https://marketplace.visualstudio.com/items?itemName=geeebe.duplicate)
 - [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
-- [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+- [Clang-Format](https://marketplace.visualstudio.com/items?itemName=xaver.clang-format)
 
 ### Misc
 
@@ -117,34 +117,79 @@ Note: Make sure that you selected syntax type, before commenting
 > **User Settings**
 ```
 {
-    "C_Cpp.updateChannel": "Insiders",
-    "files.autoSave": "onFocusChange",
-    "editor.fontFamily": "Consolas",
-    "editor.wordWrap": "on",
+    "files.associations": {
+        "array": "cpp",
+        "atomic": "cpp",
+        "*.tcc": "cpp",
+        "bitset": "cpp",
+        "cctype": "cpp",
+        "cfenv": "cpp",
+        "chrono": "cpp",
+        "cinttypes": "cpp",
+        "clocale": "cpp",
+        "cmath": "cpp",
+        "codecvt": "cpp",
+        "complex": "cpp",
+        "condition_variable": "cpp",
+        "csetjmp": "cpp",
+        "csignal": "cpp",
+        "cstdarg": "cpp",
+        "cstddef": "cpp",
+        "cstdint": "cpp",
+        "cstdio": "cpp",
+        "cstdlib": "cpp",
+        "cstring": "cpp",
+        "ctime": "cpp",
+        "cuchar": "cpp",
+        "cwchar": "cpp",
+        "cwctype": "cpp",
+        "deque": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "exception": "cpp",
+        "fstream": "cpp",
+        "functional": "cpp",
+        "future": "cpp",
+        "initializer_list": "cpp",
+        "iomanip": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "istream": "cpp",
+        "limits": "cpp",
+        "memory": "cpp",
+        "mutex": "cpp",
+        "new": "cpp",
+        "ostream": "cpp",
+        "numeric": "cpp",
+        "ratio": "cpp",
+        "scoped_allocator": "cpp",
+        "shared_mutex": "cpp",
+        "sstream": "cpp",
+        "stdexcept": "cpp",
+        "streambuf": "cpp",
+        "system_error": "cpp",
+        "thread": "cpp",
+        "type_traits": "cpp",
+        "tuple": "cpp",
+        "typeindex": "cpp",
+        "typeinfo": "cpp",
+        "utility": "cpp",
+        "valarray": "cpp",
+        "string": "cpp",
+        "algorithm": "cpp",
+        "any": "cpp",
+        "optional": "cpp",
+        "random": "cpp",
+        "regex": "cpp",
+    },
     "editor.formatOnSave": true,
-    "files.exclude": {
-        "**/*.axf": true,
-        "**/*.bin": true,
-    },
-    "workbench.colorTheme": "Dracula",
-    "files.trimTrailingWhitespace": true,
-    "search.quickOpen.includeSymbols": true,
-    "search.exclude": {
-        "**/*.axf": true,
-        "**/*.bin": true,
-        "**/*.elf": true,
-        "**/*.o": true,
-        "**/.*": true,
-        "**/Debug": true
-    },
-    "search.maintainFileSearchCache": true,
-    "editor.minimap.maxColumn": 80,
-    "codegnuglobal.executable": "C:\\msys64\\bin\\global.exe",
-    "workbench.iconTheme": "material-icon-theme",
-    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
-    "editor.multiCursorModifier": "ctrlCmd",
-    "window.zoomLevel": 0,
-    "editor.detectIndentation": false
+    "clang-format.executable": "./LLVM/bin/clang-format",
+    "C_Cpp.clang_format_path": "./LLVM/bin/clang-format",
+    "C_Cpp.clang_format_sortIncludes": true,
+    "C_Cpp.clang_format_style": ".clang-format",
 }
 ```
 
@@ -433,23 +478,27 @@ Note: Make sure that you selected syntax type, before commenting
  1. `MinGW` installation in directory `C:/MinGW`
 - `tasks.json` (COMPILING) : make sure you are running this script on cmd.exe not powershell.exe
 ```json
+// https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/installer/mingw-w64-install.exe/download
 {
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "C++ build trial.cpp",
+            "label": "C++ build Main.cpp",
             "type": "shell",
-            "command": "C:\\MinGW\\bin\\g++.exe",
+            "command": "${workspaceFolder}/mingw-w64/mingw64/bin/g++.exe",
             "args": [
+                "-std=gnu++17",
+                "-I./",
+                "-I${workspaceFolder}/louisdx-cxx-prettyprint/",
                 "-g",
                 "${file}",
                 "-o",
-                "${fileDirname}\\${fileBasenameNoExtension}.exe",
+                "${workspaceFolder}/${fileBasenameNoExtension}.exe",
                 "&&",
-                "${fileDirname}\\${fileBasenameNoExtension}.exe<${fileDirname}\\inputf.in>${fileDirname}\\outputf.in"
+                "\"${workspaceFolder}\\${fileBasenameNoExtension}.exe\"<\"${workspaceFolder}\\inputf.in\">\"${workspaceFolder}\\outputf.in\""
             ],
             "options": {
-                "cwd": "C:\\MinGW\\bin"
+                "cwd": "${workspaceFolder}/mingw-w64/mingw64/bin"
             },
             "problemMatcher": [
                 "$gcc"
@@ -458,7 +507,7 @@ Note: Make sure that you selected syntax type, before commenting
                 "kind": "build",
                 "isDefault": true
             }
-        }
+        },
     ]
 }
 ```
