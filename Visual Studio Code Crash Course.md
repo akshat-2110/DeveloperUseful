@@ -124,9 +124,6 @@ Note: Make sure that you selected syntax type, before commenting
     "files.exclude": {
         "**/*.axf": true,
         "**/*.bin": true,
-        "**/*.elf": true,
-        "**/*.o": true,
-        "**/.*": true,
     },
     "workbench.colorTheme": "Dracula",
     "files.trimTrailingWhitespace": true,
