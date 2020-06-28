@@ -106,6 +106,7 @@ Note: Make sure that you selected syntax type, before commenting
 - [Duplicate selection or line Ctrl + Shift + D like sublime](https://marketplace.visualstudio.com/items?itemName=geeebe.duplicate)
 - [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 - [Clang-Format](https://marketplace.visualstudio.com/items?itemName=xaver.clang-format)
+- [Permute Lines](https://marketplace.visualstudio.com/items?itemName=earshinov.permute-lines)
 
 ### Misc
 
