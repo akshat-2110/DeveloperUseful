@@ -99,14 +99,18 @@ Note: Make sure that you selected syntax type, before commenting
 - [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - [Select Line Status Bar](https://marketplace.visualstudio.com/items?itemName=tomoki1207.selectline-statusbar)
-- [Python]()
+- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 - [Word/Line/Char/Paragraph/ReadingTime Counter](https://marketplace.visualstudio.com/items?itemName=kirozen.wordcounter)
 - [hexdump for VSCode](https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-hexdump)
 - [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
 - [Duplicate selection or line Ctrl + Shift + D like sublime](https://marketplace.visualstudio.com/items?itemName=geeebe.duplicate)
 - [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
-- [Clang-Format](https://marketplace.visualstudio.com/items?itemName=xaver.clang-format)
 - [Permute Lines](https://marketplace.visualstudio.com/items?itemName=earshinov.permute-lines)
+- [Sort lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
+- [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+- [clangd](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.vscode-clangd)
+- [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
+- [Output Colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer)
 
 ### Misc
 
