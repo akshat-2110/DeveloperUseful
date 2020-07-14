@@ -94,5 +94,6 @@ This is a very abstract process. There are other parameters which hamper with th
 - [The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY&index=4&list=WL)
 - Many QnA on Reddit.
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn).
+- [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)
 
 And many more forget to list here.
