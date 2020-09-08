@@ -1,16 +1,13 @@
 ```
 #SingleInstance,Force
 
-
 ::btw::By the way, 
 
-::tf::thanks for
+::tq::Thanks 
 
 ::bcoz::because, 
 
 ::aka::also known as 
-
-::ur::you are
 
 ::br::BR,{Enter}Vishal Chovatiya
 
@@ -21,7 +18,12 @@
 ::heym::Hi ,{Enter}{Enter}{Enter}BR,{Enter}Vishal Chovatiya
 
 ::ttl::In middle of something, will talk to you soon
+::mttl::In meeting, will come back to you soon
 
+::mygmail::visheshchovatiya@gmail.com
+::myymail::vishalchovatiya@ymail.com
+::myhotmail::vishalchovatiya@hotmail.com
+::myimail::vishal.chovatiya@infineon.com
 
 ```
 
