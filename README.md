@@ -19,7 +19,7 @@
 16. [AHK: Auto Correct](https://github.com/VisheshPatel/DeveloperUseful/blob/master/AHK:%20Auto%20Correct.ahk)
 17. [AHK: Virtual Desktop Toggle](https://github.com/VisheshPatel/DeveloperUseful/blob/master/AHK:%20Virtual%20Desktop%20Toggle.ahk)
 18. [AHK: Google](https://github.com/VisheshPatel/DeveloperUseful/blob/master/AHK:%20Google.ahk)
-19. [AHK: HotKeys-DEPRECATED](https://github.com/VisheshPatel/DeveloperUseful/blob/master/AHK:%20HotKeys.md)
+19. [[DEPRECATED] AHK: HotKeys](https://github.com/VisheshPatel/DeveloperUseful/blob/master/AHK:%20HotKeys.md)
 20. [AHK: HotStrings](https://github.com/VisheshPatel/DeveloperUseful/blob/master/AHK:%20HotStrings.ahk)
 21. [AHK: Always_on_Top](https://github.com/VisheshPatel/DeveloperUseful/blob/master/AHK:%20Always_on_Top.ahk)
 22. [AHK: OverusedWords](https://github.com/VisheshPatel/DeveloperUseful/blob/master/AHK:%20OverusedWords.ahk)
