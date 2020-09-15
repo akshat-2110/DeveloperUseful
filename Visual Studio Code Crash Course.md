@@ -477,7 +477,7 @@ Note: Make sure that you selected syntax type, before commenting
 - 
 > **To see sublime command or CLI**
 
-# Build Systems
+# Build Systems(For GCC on Windows)
 
 > **C++ single file build setting**
 - Prerequisites:
@@ -576,11 +576,85 @@ Note: Make sure that you selected syntax type, before commenting
 }
 ```
 
-## Benefits over sublime
-- Can open image as well
-- Debugging is more intuitive
+# Build Systems(For MSVC i.e. Visual Studio 2019, C++20)
 
-
-## Drawbacks over sublime
-- bit slower
-- need map drive for network file to use feature of goto declaration
+> **C++ single file build setting**
+- Prerequisites:
+ 1. Install Visual Studio 2019
+- `tasks.json` (COMPILING) 
+```json
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "C/C++: cl.exe build active file",
+			"command": "cl.exe",
+			"args": [
+				"/Zi",
+				"/EHsc",
+				"/Fe:",
+				"${workspaceFolder}\\Main.exe",
+				"${workspaceFolder}\\*.cpp"
+			],
+			"options": {
+				"cwd": "${workspaceFolder}"
+			},
+			"problemMatcher": [
+				"$msCompile"
+			],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		}
+	]
+}
+```
+- `c_cpp_properties.json` (INTELLISENSE)
+```json
+{
+    "configurations": [
+        {
+            "name": "Win64",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.18362.0",
+            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/VC/Tools/MSVC/14.26.28801/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
+```
+- `launch.jason` (DEBUGGING) 
+```json
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "cl.exe - Build and debug active file",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}\\Main.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": false,
+            "preLaunchTask": "C/C++: cl.exe build active file",
+        }
+    ]
+}
+```
