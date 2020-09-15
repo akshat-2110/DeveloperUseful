@@ -1,4 +1,3 @@
-```
 #SingleInstance,Force
 
 ; Google Search highlighted text
@@ -9,4 +8,3 @@
 	Run, http://www.google.com/search?q=%clipboard%
 	Return
 }
-```
