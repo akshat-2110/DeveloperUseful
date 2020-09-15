@@ -23,4 +23,4 @@
 20. [AHK: HotStrings](https://github.com/VisheshPatel/DeveloperUseful/blob/master/AHK:%20HotStrings.ahk)
 21. [AHK: Always_on_Top](https://github.com/VisheshPatel/DeveloperUseful/blob/master/AHK:%20Always_on_Top.ahk)
 22. [AHK: OverusedWords](https://github.com/VisheshPatel/DeveloperUseful/blob/master/AHK:%20OverusedWords.ahk)
-23. [AHK: NoHotkey](https://github.com/VisheshPatel/DeveloperUseful/blob/master/AHK:%20NoHotkey.ahk)
+23. [[FIX] AHK: NoHotkey](https://github.com/VisheshPatel/DeveloperUseful/blob/master/AHK:%20NoHotkey.ahk)
