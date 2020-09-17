@@ -25,4 +25,4 @@
 22. [AHK: OverusedWords](https://github.com/VisheshPatel/DeveloperUseful/blob/master/AHK:%20OverusedWords.ahk)
 23. [[FIX] AHK: NoHotkey](https://github.com/VisheshPatel/DeveloperUseful/blob/master/AHK:%20NoHotkey.ahk)
 24. [Outlook Add-ins](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Outlook%20Add-ins.md)
-
+25. [clang-format file[LLVM style]](https://github.com/VisheshPatel/DeveloperUseful/blob/master/.clang-format)
