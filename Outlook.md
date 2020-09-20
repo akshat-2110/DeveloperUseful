@@ -18,8 +18,8 @@
 
 ## Mail Category & Color
 
-| Color  | Category Name  | 
-|---|---|
-|   |   |
-|   |   |
-|   |   |
+| Color  | Category Name  | Icon |
+|---|---|--|
+|  Red | Urgent  | Exclamation Mark | 
+| Orange  | When Possible  | Flag |
+| Blue  | When Response Arrives  | Blue Exclamation Mark|
