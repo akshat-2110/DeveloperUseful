@@ -3,9 +3,15 @@
 
 - [OOTD](https://outlookonthedesktop.com/)
 - [Grammarly](https://www.grammarly.com/office-addin)
-- [Outlook view compact, todo bar]()
 - []()
 - []()
+
+## Setting to do
+
+- Outlook view compact
+- Todo bar right panel
+- Folder creation: .Action , .Read, Archive
+- Folder view by category
 
 ## Meeting Category & Color
 
