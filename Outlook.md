@@ -9,10 +9,14 @@
 
 ## Meeting Category & Color
 
-Color | Category Name
-Color | Category Name
+| Color  | Category Name  | 
+|---|---|
+|  Yellow |  Meeting: Management  |
+| Purple  | Meeting: Personal  |
+| Green  | Meeting: Technical  |
 
 
+## Mail Category & Color
 
 | Color  | Category Name  | 
 |---|---|
