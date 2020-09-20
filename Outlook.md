@@ -12,6 +12,8 @@
 - Todo bar right panel
 - Folder creation: .Action , .Read, Archive
 - Folder view by category
+- Add 2nd time zone to calender
+- Add indian & 2nd country holidays
 
 ## Meeting Category & Color
 
