@@ -19,9 +19,9 @@
 
 | Color  | Category Name  | Shortcut |
 |---|---|---|
-|  Yellow |  Meeting: Management  | Ctrl + F2 |
-| Purple  | Meeting: Personal  |  Ctrl + F3  |
-| Green  | Meeting: Technical  |  Ctrl + F4  |
+| Green  | Meeting: Technical  |  Ctrl + F2  |
+|  Yellow |  Meeting: Management  | Ctrl + F3 |
+| Purple  | Meeting: Personal  |  Ctrl + F4  |
 
 
 ## Mail Category & Color
