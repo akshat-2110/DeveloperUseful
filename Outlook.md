@@ -26,8 +26,8 @@
 
 ## Mail Category & Color
 
-| Color  | Category Name  | Icon | | Shortcut |
-|---|---|--|---|
+| Color  | Category Name  | Icon | Shortcut |
+|---|---|---|---|
 |  Red | Urgent  | Exclamation Mark |   | Ctrl + F6 |
 | Orange  | When Possible  | Flag |  | Ctrl + F7 |
 | Blue  | When Response Arrives  | Blue Exclamation Mark|  | Ctrl + F8 |
