@@ -28,6 +28,8 @@
 
 | Color  | Category Name  | Icon | Shortcut |
 |---|---|---|---|
-|  Red | Urgent  | Exclamation Mark | Ctrl + F6 |
-| Orange  | When Possible  | Flag |  Ctrl + F7 |
-| Blue  | When Response Arrives  | Blue Exclamation Mark| Ctrl + F8 |
+||Read|Book|Ctrl + Shift + 1|
+|  Red | Urgent  | Exclamation Mark | Ctrl + Shift + 2 |
+| Orange  | When Possible  | Flag |  Ctrl + Shift + 3 |
+| Blue  | When Response Arrives  | Blue Exclamation Mark| Ctrl + Shift + 4 |
+||Archive|Folder|Ctrl + Shift + 5|
