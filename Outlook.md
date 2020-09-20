@@ -17,17 +17,17 @@
 
 ## Meeting Category & Color
 
-| Color  | Category Name  | 
-|---|---|
-|  Yellow |  Meeting: Management  |
-| Purple  | Meeting: Personal  |
-| Green  | Meeting: Technical  |
+| Color  | Category Name  | Shortcut |
+|---|---|---|
+|  Yellow |  Meeting: Management  | Ctrl + F2 |
+| Purple  | Meeting: Personal  |  Ctrl + F3  |
+| Green  | Meeting: Technical  |  Ctrl + F4  |
 
 
 ## Mail Category & Color
 
-| Color  | Category Name  | Icon |
-|---|---|--|
-|  Red | Urgent  | Exclamation Mark | 
-| Orange  | When Possible  | Flag |
-| Blue  | When Response Arrives  | Blue Exclamation Mark|
+| Color  | Category Name  | Icon | | Shortcut |
+|---|---|--|---|
+|  Red | Urgent  | Exclamation Mark |   | Ctrl + F6 |
+| Orange  | When Possible  | Flag |  | Ctrl + F7 |
+| Blue  | When Response Arrives  | Blue Exclamation Mark|  | Ctrl + F8 |
