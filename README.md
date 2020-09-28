@@ -27,3 +27,4 @@
 24. [Outlook Add-ins](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Outlook.md)
 25. [clang-format file[LLVM style]](https://github.com/VisheshPatel/DeveloperUseful/blob/master/.clang-format)
 26. [AHK: sleep_hibernate](https://github.com/VisheshPatel/DeveloperUseful/blob/master/AHK:%20sleep_hibernate.ahk)
+27. [QTTabBar Setting](https://github.com/VisheshPatel/DeveloperUseful/blob/master/QTTabBar.xml)
