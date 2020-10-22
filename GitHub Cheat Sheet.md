@@ -1,3 +1,13 @@
+### Spliting Repository: Move files from one repository to another, preserving git history
+
+- https://medium.com/@ayushya/move-directory-from-one-repository-to-another-preserving-git-history-d210fa049d4b
+- https://manishearth.github.io/blog/2017/03/05/understanding-git-filter-branch/
+
+```
+git cherry-pick [COMMIT_1] [COMMIT_2] [COMMIT_3] . . . .  [COMMIT_N]
+git push origin  [COMMIT_N]:[BRANCH_NAME]
+```
+
 ### Pick pathces on different branch & apply on current branch
 
 ```
