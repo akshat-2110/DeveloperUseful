@@ -1,3 +1,9 @@
+
+### revert local changes
+
+- `git checkout .`
+- `git reset`
+
 ### Spliting Repository: Move files from one repository to another, preserving git history
 
 - https://medium.com/@ayushya/move-directory-from-one-repository-to-another-preserving-git-history-d210fa049d4b
