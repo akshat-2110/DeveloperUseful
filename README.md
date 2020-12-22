@@ -19,7 +19,7 @@
 16. []()
 17. []()
 18. []()
-19. [[DEPRECATED] AHK: HotKeys](https://github.com/VisheshPatel/DeveloperUseful/blob/master/AHK:%20HotKeys.md)
+19. []()
 20. []()
 21. []()
 22. []()
