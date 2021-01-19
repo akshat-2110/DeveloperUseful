@@ -1,4 +1,10 @@
 
+### Squashing last X commits
+
+- `git reset --soft HEAD~2 `
+- `git commit -m "new commit message"`
+- `git push -f`
+
 ### revert local changes
 
 - `git checkout .`
