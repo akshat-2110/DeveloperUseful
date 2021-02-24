@@ -1,7 +1,7 @@
 
 ### Squashing last X commits
 
-- `git reset --soft HEAD~2 `
+- `git reset --soft HEAD~2 ` <<<<<<<<<<----- Here it is `X-1`.
 - `git commit -m "new commit message"`
 - `git push -f`
 
