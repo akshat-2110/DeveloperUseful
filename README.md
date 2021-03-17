@@ -13,7 +13,7 @@
 11. [Sublime Plugin Template](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Sublime%20Plugin%20Template.md)
 12. [Sublime Text Plugin : Tabularize](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Sublime%20Text%20Plugin%20:%20Tabularize.md)
 12. [Sublime Text Plugin : Serial Number](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Sublime%20Text%20Plugin%20:%20Serial%20Number.md)
-13. [GitHub Cheat Sheet](https://github.com/VisheshPatel/DeveloperUseful/blob/master/GitHub%20Cheat%20Sheet.md)
+13. [Git Cheat Sheet](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Git%20Cheat%20Sheet.md)
 14. [How to acquire skill by learning anything fast & effectively?](https://github.com/VisheshPatel/DeveloperUseful/blob/master/How%20to%20acquire%20skill%20by%20learning%20anything%20fast%20%26%20effectively%3F.md)
 15. [Visual Studio Code Crash Course](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Visual%20Studio%20Code%20Crash%20Course.md)
 16. [Outlook Add-ins](https://github.com/VisheshPatel/DeveloperUseful/blob/master/Outlook.md)
