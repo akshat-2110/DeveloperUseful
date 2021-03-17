@@ -126,9 +126,9 @@ Eg:
 
 ```git checkout [BRANCH_NAME]```
 
-### Delete a branch
+### Delete remote a branch
 
-```git branch –D [BRANCH_NAME]```
+```git push -d origin <branch_name>```
 
 ### Create patch
 
