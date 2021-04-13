@@ -20,5 +20,5 @@
 17. [clang-format file[LLVM style]](https://github.com/VisheshPatel/DeveloperUseful/blob/master/.clang-format)
 18. [QTTabBar Setting](https://github.com/VisheshPatel/DeveloperUseful/blob/master/QTTabBar.xml)
 19. [chocolatey](https://github.com/VisheshPatel/DeveloperUseful/blob/master/chocolatey.md)
-20. []()
+20. [keypirinha_settings](https://github.com/VisheshPatel/DeveloperUseful/blob/master/keypirinha_settings.md)
 21. []()
